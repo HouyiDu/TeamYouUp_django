@@ -30,7 +30,7 @@ class Student(models.Model):
 
 
 class Skill(models.Model):
-    skill_name = models.CharField(max_length=30)
+    skill_name = models.CharField(max_length=30,default='c++')
     
     def __str__(self):
         return self.skill_name

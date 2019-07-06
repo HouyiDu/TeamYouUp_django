@@ -1,7 +1,9 @@
 from django.shortcuts import render, redirect
 from django.contrib import messages
-from .forms import StudentRegisterForm, InstructorRegisterForm
+from .forms import (StudentRegisterForm, InstructorRegisterForm, 
+UserUpdateFOrm, StudentProfileUpdateForm, InstructorProfileUpdateForm)
 from django.contrib.auth.decorators import login_required
+
 
 # Create your views here.
 
@@ -37,5 +39,53 @@ def dashboard(request):
 
 
 @login_required
-def profile(request):
-    return render(request, 'user/profile.html')
+def student_profile(request):
+    if request.method == 'POST':
+        u_form = UserUpdateFOrm(request.POST, instance=request.user)
+        p_form = StudentProfileUpdateForm(request.POST, 
+                                    instance=request.user.student)
+        
+
+        if u_form.is_valid() and p_form.is_valid():
+            u_form.save()
+            p_form.save()
+            messages.success(request, f'Your account has been updated!')
+            return redirect('student_profile')
+
+    else:
+        u_form = UserUpdateFOrm(instance=request.user)
+        p_form = StudentProfileUpdateForm(instance=request.user.student)
+
+    context = {
+        'u_form': u_form,
+        'p_form': p_form
+    }
+    return render(request, 'user/student_profile.html', context)
+
+
+
+
+@login_required
+def instructor_profile(request):
+    if request.method == 'POST':
+        u_form = UserUpdateFOrm(request.POST, instance=request.user)
+        p_form = InstructorProfileUpdateForm(request.POST, 
+                                    instance=request.user.instructor)
+        
+
+        if u_form.is_valid() and p_form.is_valid():
+            u_form.save()
+            p_form.save()
+            messages.success(request, f'Your account has been updated!')
+            return redirect('instructor_profile')
+
+    else:
+        u_form = UserUpdateFOrm(instance=request.user)
+        p_form = InstructorProfileUpdateForm(instance=request.user.instructor)
+
+    context = {
+        'u_form': u_form,
+        'p_form': p_form
+    }
+
+    return render(request, 'user/instructor_profile.html',context)

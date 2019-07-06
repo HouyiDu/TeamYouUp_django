@@ -15,14 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from user.views import student_register, instructor_register, profile
+from user.views import student_register, instructor_register, student_profile, instructor_profile
 from user.views import dashboard
 from django.contrib.auth import views as auth_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('student_register/', student_register, name='student_register'),
-    path('profile/', profile, name='profile'),
+    path('student_profile/', student_profile, name='student_profile'),
+    path('instructor_profile/', instructor_profile, name='instructor_profile'),
     path('instructor_register/', instructor_register, name='instructor_register'),
     path('dashboard/', dashboard, name='dashboard'),
     path('login/', auth_views.LoginView.as_view(template_name='user/login.html'), name='login'),

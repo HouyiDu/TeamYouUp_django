@@ -2,7 +2,7 @@ from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from .models import (User, Student, Instructor)
-from .models import 
+
 
 
 class StudentRegisterForm(UserCreationForm):
@@ -57,7 +57,14 @@ class UserUpdateFOrm(forms.ModelForm):
         model = User
         fields = ['username', 'email']
 
-class ProfileUpdateForm(forms.ModelForm):
+
+class StudentProfileUpdateForm(forms.ModelForm):
     class Meta:
-        model = ProfileUpdateForm
+        model = Student
+        fields = ['standing',  'firstName','lastName']
         
+
+class InstructorProfileUpdateForm(forms.ModelForm):
+    class Meta:
+        model = Instructor
+        fields = ['firstName', 'lastName']
