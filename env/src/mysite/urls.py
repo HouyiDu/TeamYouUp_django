@@ -16,7 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from user.views import student_register, instructor_register, student_profile, instructor_profile
-from user.views import dashboard
+from user.views import dashboard as student_dashboard
+
 from django.contrib.auth import views as auth_views
 
 urlpatterns = [
@@ -25,7 +26,9 @@ urlpatterns = [
     path('student_profile/', student_profile, name='student_profile'),
     path('instructor_profile/', instructor_profile, name='instructor_profile'),
     path('instructor_register/', instructor_register, name='instructor_register'),
-    path('dashboard/', dashboard, name='dashboard'),
+    path('dashboard/', student_dashboard, name='student_dashboard'),
+    #path('course_dashboard/', course_dashboard, name='course_dashboard'),
     path('login/', auth_views.LoginView.as_view(template_name='user/login.html'), name='login'),
     path('logout/', auth_views.LogoutView.as_view(template_name='user/logout.html'), name='logout'),
+   
 ]

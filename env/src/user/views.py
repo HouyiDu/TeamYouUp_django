@@ -33,7 +33,7 @@ def instructor_register(request):
     return render(request, 'user/instructor_register.html', {'form': form})
 
 
-
+@login_required
 def dashboard(request):
     return render(request, 'user/dashboard.html', {})
 

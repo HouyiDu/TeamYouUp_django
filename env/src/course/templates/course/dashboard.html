@@ -1,0 +1,16 @@
+{% extends "user/base.html" %}
+{% block content %}
+<ul>
+
+    {% for course in courses %}
+
+    <li>
+        <!-- <a href="{% url 'course_dashboard' course.course_name %}"></a> -->
+            {{ course.course_name }}
+            {{ course.instructor.instructor.firstName }}
+            {{ course.instructor.instructor.lastName }}
+    </li>   
+          
+    {% endfor %}
+</ul>
+{% endblock content %}

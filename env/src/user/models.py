@@ -1,5 +1,7 @@
 from django.db import models
-from django.contrib.auth.models import AbstractUser
+from django.core.validators import MaxValueValidator, MinValueValidator
+from django.contrib.auth.models import AbstractUser, Group
+
 
 # Create your models here.
 class User(AbstractUser):
@@ -47,3 +49,17 @@ class Instructor(models.Model):
         return self.user.username
 
 
+class Team(models.Model):
+    name = models.CharField(max_length=20)
+    size = models.IntegerField( validators=[MinValueValidator(1)])
+    availability = models.BooleanField(default=True)
+    members = models.ManyToManyField(User,through='Membership')
+
+    def __str__(self):
+        return self.name
+
+class Membership(models.Model):
+    sutdent = models.ForeignKey(User, on_delete=models.CASCADE)
+    team = models.ForeignKey(Team, on_delete=models.CASCADE)
+    invite_msg = models.CharField(max_length=64)
+    
