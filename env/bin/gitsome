@@ -1,0 +1,3 @@
+#!/home/char/Downloads/django/env/bin/python
+from xonsh.main import main
+main()

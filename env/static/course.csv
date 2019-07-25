@@ -1,0 +1,1999 @@
+crn,department,course_number,course_title,level,semester_id
+35827,CS,CS 225,Data Structures,2,38
+23728,CS,CS 233,Computer Architecture,2,38
+83994,CS,CS 241,System Programming,4,38
+39093,CS,CS 242,Programming Studio,4,38
+43809,CS,CS 296,Honors Course,4,38
+24915,CS,CS 357,Numerical Methods I,3,38
+79805,CS,CS 361,Probability & Statistics for Computer Science,3,38
+24913,CS,CS 374,Introduction to Algorithms & Models of Computation,4,38
+30617,CS,CS 397,Individual Study,4,38
+80777,CS,CS 410,Text Information Systems,4,38
+41198,CS,CS 411,Database Systems,4,38
+27076,CS,CS 412,Introduction to Data Mining,4,38
+68863,CS,CS 413,Intro to Combinatorics,4,38
+84086,CS,CS 418,Interactive Computer Graphics,4,38
+22889,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,38
+32991,CS,CS 421,Programming Languages & Compilers,4,38
+82453,CS,CS 424,Real-Time Systems,4,38
+84637,CS,CS 425,Distributed Systems,4,38
+38762,CS,CS 426,Compiler Construction,4,38
+83887,CS,CS 427,Software Engineering I,4,38
+49373,CS,CS 433,Computer System Organization,4,38
+38681,CS,CS 438,Communication Networks,4,38
+61627,CS,CS 440,Artificial Intelligence,3,38
+96486,CS,CS 445,Computational Photography,4,38
+30364,CS,CS 446,Machine Learning,4,38
+53855,CS,CS 447,Natural Language Processing,4,38
+25508,CS,CS 450,Numerical Analysis,4,38
+56263,CS,CS 461,Computer Security I,4,38
+68511,CS,CS 465,User Interface Design,3,38
+58410,CS,CS 466,Introduction to Bioinformatics,3,38
+37583,CS,CS 473,Algorithms,5,38
+81340,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,38
+65856,CS,CS 483,Applied Parallel Programming,4,38
+84487,CS,CS 484,Parallel Programming,4,38
+37711,CS,CS 491,Seminar,4,38
+63005,CS,CS 493,"Senior Project II, ACP",4,38
+97543,CS,CS 494,Senior Project II,4,38
+44403,CS,CS 497,CS Team Project,4,38
+96988,CS,CS 498,Special Topics,4,38
+68608,CS,CS 499,Senior Thesis,5,38
+71233,CS,CS 510,Advanced Information Retrieval,5,38
+95564,CS,CS 513,Theory & Practice of Data Cleaning,5,38
+70041,CS,CS 523,Advanced Operating Systems,5,38
+37053,CS,CS 536,Fault-Tolerant Dig Syst Design,5,38
+39440,CS,CS 547,Deep Learning,5,38
+62667,CS,CS 554,Parallel Numerical Algorithms,5,38
+16203,CS,CS 563,Advanced Computer Security,5,38
+98389,CS,CS 571,Combinatorial Mathematics,5,38
+25456,CS,CS 576,Topics in Automated Deduction,5,38
+88969,CS,CS 581,Algorithmic Genomic Biology,5,38
+13679,CS,CS 584,Embedded System Verification,5,38
+79931,CS,CS 591,Advanced Seminar,5,38
+61635,CS,CS 598,Special Topics,5,38
+98714,CS,CS 599,Thesis Research,5,38
+63315,CS,CS 225,Data Structures,2,37
+88487,CS,CS 233,Computer Architecture,2,37
+22760,CS,CS 241,System Programming,4,37
+97062,CS,CS 242,Programming Studio,4,37
+18735,CS,CS 296,Honors Course,4,37
+11454,CS,CS 357,Numerical Methods I,3,37
+54436,CS,CS 361,Probability & Statistics for Computer Science,3,37
+30816,CS,CS 374,Introduction to Algorithms & Models of Computation,4,37
+67907,CS,CS 397,Individual Study,4,37
+43286,CS,CS 410,Text Information Systems,4,37
+57466,CS,CS 411,Database Systems,4,37
+40199,CS,CS 412,Introduction to Data Mining,4,37
+64681,CS,CS 413,Intro to Combinatorics,4,37
+58164,CS,CS 418,Interactive Computer Graphics,4,37
+67027,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,37
+93922,CS,CS 421,Programming Languages & Compilers,4,37
+41051,CS,CS 424,Real-Time Systems,4,37
+31815,CS,CS 425,Distributed Systems,4,37
+23456,CS,CS 426,Compiler Construction,4,37
+82136,CS,CS 427,Software Engineering I,4,37
+21902,CS,CS 433,Computer System Organization,4,37
+34592,CS,CS 438,Communication Networks,4,37
+81824,CS,CS 440,Artificial Intelligence,3,37
+69978,CS,CS 445,Computational Photography,4,37
+80995,CS,CS 446,Machine Learning,4,37
+94945,CS,CS 447,Natural Language Processing,4,37
+42757,CS,CS 450,Numerical Analysis,4,37
+19012,CS,CS 461,Computer Security I,4,37
+93208,CS,CS 465,User Interface Design,3,37
+23065,CS,CS 466,Introduction to Bioinformatics,3,37
+22142,CS,CS 473,Algorithms,5,37
+67884,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,37
+61781,CS,CS 483,Applied Parallel Programming,4,37
+49632,CS,CS 484,Parallel Programming,4,37
+10570,CS,CS 491,Seminar,4,37
+80593,CS,CS 493,"Senior Project II, ACP",4,37
+31399,CS,CS 494,Senior Project II,4,37
+45401,CS,CS 497,CS Team Project,4,37
+43746,CS,CS 498,Special Topics,4,37
+90614,CS,CS 499,Senior Thesis,5,37
+74538,CS,CS 510,Advanced Information Retrieval,5,37
+28318,CS,CS 513,Theory & Practice of Data Cleaning,5,37
+22961,CS,CS 523,Advanced Operating Systems,5,37
+14720,CS,CS 536,Fault-Tolerant Dig Syst Design,5,37
+82142,CS,CS 547,Deep Learning,5,37
+57189,CS,CS 554,Parallel Numerical Algorithms,5,37
+71276,CS,CS 563,Advanced Computer Security,5,37
+60110,CS,CS 571,Combinatorial Mathematics,5,37
+52702,CS,CS 576,Topics in Automated Deduction,5,37
+51594,CS,CS 581,Algorithmic Genomic Biology,5,37
+42873,CS,CS 584,Embedded System Verification,5,37
+97661,CS,CS 591,Advanced Seminar,5,37
+20679,CS,CS 598,Special Topics,5,37
+48574,CS,CS 599,Thesis Research,5,37
+55930,CS,CS 225,Data Structures,2,34
+99674,CS,CS 233,Computer Architecture,2,34
+94688,CS,CS 241,System Programming,4,34
+79602,CS,CS 242,Programming Studio,4,34
+23688,CS,CS 296,Honors Course,4,34
+54737,CS,CS 357,Numerical Methods I,3,34
+56180,CS,CS 361,Probability & Statistics for Computer Science,3,34
+70917,CS,CS 374,Introduction to Algorithms & Models of Computation,4,34
+38665,CS,CS 397,Individual Study,4,34
+42327,CS,CS 410,Text Information Systems,4,34
+35150,CS,CS 411,Database Systems,4,34
+48043,CS,CS 412,Introduction to Data Mining,4,34
+55828,CS,CS 413,Intro to Combinatorics,4,34
+85703,CS,CS 418,Interactive Computer Graphics,4,34
+45711,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,34
+12804,CS,CS 421,Programming Languages & Compilers,4,34
+24355,CS,CS 424,Real-Time Systems,4,34
+32781,CS,CS 425,Distributed Systems,4,34
+18594,CS,CS 426,Compiler Construction,4,34
+38313,CS,CS 427,Software Engineering I,4,34
+91442,CS,CS 433,Computer System Organization,4,34
+33628,CS,CS 438,Communication Networks,4,34
+21717,CS,CS 440,Artificial Intelligence,3,34
+10015,CS,CS 445,Computational Photography,4,34
+21125,CS,CS 446,Machine Learning,4,34
+47634,CS,CS 447,Natural Language Processing,4,34
+47268,CS,CS 450,Numerical Analysis,4,34
+48381,CS,CS 461,Computer Security I,4,34
+13440,CS,CS 465,User Interface Design,3,34
+65490,CS,CS 466,Introduction to Bioinformatics,3,34
+71212,CS,CS 473,Algorithms,5,34
+44558,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,34
+70831,CS,CS 483,Applied Parallel Programming,4,34
+63823,CS,CS 484,Parallel Programming,4,34
+42384,CS,CS 491,Seminar,4,34
+20649,CS,CS 493,"Senior Project II, ACP",4,34
+11904,CS,CS 494,Senior Project II,4,34
+97267,CS,CS 497,CS Team Project,4,34
+71145,CS,CS 498,Special Topics,4,34
+77633,CS,CS 499,Senior Thesis,5,34
+18142,CS,CS 510,Advanced Information Retrieval,5,34
+27547,CS,CS 513,Theory & Practice of Data Cleaning,5,34
+65114,CS,CS 523,Advanced Operating Systems,5,34
+75084,CS,CS 536,Fault-Tolerant Dig Syst Design,5,34
+74113,CS,CS 547,Deep Learning,5,34
+74750,CS,CS 554,Parallel Numerical Algorithms,5,34
+86240,CS,CS 563,Advanced Computer Security,5,34
+32292,CS,CS 571,Combinatorial Mathematics,5,34
+36486,CS,CS 576,Topics in Automated Deduction,5,34
+24862,CS,CS 581,Algorithmic Genomic Biology,5,34
+41242,CS,CS 584,Embedded System Verification,5,34
+10357,CS,CS 591,Advanced Seminar,5,34
+34359,CS,CS 598,Special Topics,5,34
+36055,CS,CS 599,Thesis Research,5,34
+19111,CS,CS 225,Data Structures,2,34
+97337,CS,CS 233,Computer Architecture,2,34
+40875,CS,CS 241,System Programming,4,34
+26963,CS,CS 242,Programming Studio,4,34
+41575,CS,CS 296,Honors Course,4,34
+13878,CS,CS 357,Numerical Methods I,3,34
+37833,CS,CS 361,Probability & Statistics for Computer Science,3,34
+66919,CS,CS 374,Introduction to Algorithms & Models of Computation,4,34
+33734,CS,CS 397,Individual Study,4,34
+65530,CS,CS 410,Text Information Systems,4,34
+29067,CS,CS 411,Database Systems,4,34
+94618,CS,CS 412,Introduction to Data Mining,4,34
+71016,CS,CS 413,Intro to Combinatorics,4,34
+46874,CS,CS 418,Interactive Computer Graphics,4,34
+15326,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,34
+29061,CS,CS 421,Programming Languages & Compilers,4,34
+20177,CS,CS 424,Real-Time Systems,4,34
+32380,CS,CS 425,Distributed Systems,4,34
+55268,CS,CS 426,Compiler Construction,4,34
+96986,CS,CS 427,Software Engineering I,4,34
+41295,CS,CS 433,Computer System Organization,4,34
+99009,CS,CS 438,Communication Networks,4,34
+63341,CS,CS 440,Artificial Intelligence,3,34
+89428,CS,CS 445,Computational Photography,4,34
+65839,CS,CS 446,Machine Learning,4,34
+84555,CS,CS 447,Natural Language Processing,4,34
+42534,CS,CS 450,Numerical Analysis,4,34
+45021,CS,CS 461,Computer Security I,4,34
+10493,CS,CS 465,User Interface Design,3,34
+72488,CS,CS 466,Introduction to Bioinformatics,3,34
+57192,CS,CS 473,Algorithms,5,34
+17588,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,34
+32504,CS,CS 483,Applied Parallel Programming,4,34
+68657,CS,CS 484,Parallel Programming,4,34
+85512,CS,CS 491,Seminar,4,34
+34805,CS,CS 493,"Senior Project II, ACP",4,34
+67759,CS,CS 494,Senior Project II,4,34
+92820,CS,CS 497,CS Team Project,4,34
+90623,CS,CS 498,Special Topics,4,34
+90368,CS,CS 499,Senior Thesis,5,34
+86078,CS,CS 510,Advanced Information Retrieval,5,34
+87060,CS,CS 513,Theory & Practice of Data Cleaning,5,34
+32783,CS,CS 523,Advanced Operating Systems,5,34
+38881,CS,CS 536,Fault-Tolerant Dig Syst Design,5,34
+26195,CS,CS 547,Deep Learning,5,34
+94077,CS,CS 554,Parallel Numerical Algorithms,5,34
+38018,CS,CS 563,Advanced Computer Security,5,34
+85748,CS,CS 571,Combinatorial Mathematics,5,34
+85764,CS,CS 576,Topics in Automated Deduction,5,34
+88258,CS,CS 581,Algorithmic Genomic Biology,5,34
+40753,CS,CS 584,Embedded System Verification,5,34
+12463,CS,CS 591,Advanced Seminar,5,34
+32188,CS,CS 598,Special Topics,5,34
+72499,CS,CS 599,Thesis Research,5,34
+65026,CS,CS 225,Data Structures,2,33
+16286,CS,CS 233,Computer Architecture,2,33
+54146,CS,CS 241,System Programming,4,33
+78350,CS,CS 242,Programming Studio,4,33
+20318,CS,CS 296,Honors Course,4,33
+28910,CS,CS 357,Numerical Methods I,3,33
+65995,CS,CS 361,Probability & Statistics for Computer Science,3,33
+29980,CS,CS 374,Introduction to Algorithms & Models of Computation,4,33
+35876,CS,CS 397,Individual Study,4,33
+53548,CS,CS 410,Text Information Systems,4,33
+39156,CS,CS 411,Database Systems,4,33
+33729,CS,CS 412,Introduction to Data Mining,4,33
+28795,CS,CS 413,Intro to Combinatorics,4,33
+16729,CS,CS 418,Interactive Computer Graphics,4,33
+61250,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,33
+42165,CS,CS 421,Programming Languages & Compilers,4,33
+33523,CS,CS 424,Real-Time Systems,4,33
+36489,CS,CS 425,Distributed Systems,4,33
+58841,CS,CS 426,Compiler Construction,4,33
+23352,CS,CS 427,Software Engineering I,4,33
+27034,CS,CS 433,Computer System Organization,4,33
+65107,CS,CS 438,Communication Networks,4,33
+61153,CS,CS 440,Artificial Intelligence,3,33
+32198,CS,CS 445,Computational Photography,4,33
+74237,CS,CS 446,Machine Learning,4,33
+29973,CS,CS 447,Natural Language Processing,4,33
+35082,CS,CS 450,Numerical Analysis,4,33
+47490,CS,CS 461,Computer Security I,4,33
+56738,CS,CS 465,User Interface Design,3,33
+92129,CS,CS 466,Introduction to Bioinformatics,3,33
+13775,CS,CS 473,Algorithms,5,33
+85426,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,33
+37117,CS,CS 483,Applied Parallel Programming,4,33
+32731,CS,CS 484,Parallel Programming,4,33
+34361,CS,CS 491,Seminar,4,33
+10403,CS,CS 493,"Senior Project II, ACP",4,33
+23822,CS,CS 494,Senior Project II,4,33
+52181,CS,CS 497,CS Team Project,4,33
+36394,CS,CS 498,Special Topics,4,33
+90761,CS,CS 499,Senior Thesis,5,33
+60004,CS,CS 510,Advanced Information Retrieval,5,33
+19764,CS,CS 513,Theory & Practice of Data Cleaning,5,33
+16362,CS,CS 523,Advanced Operating Systems,5,33
+86304,CS,CS 536,Fault-Tolerant Dig Syst Design,5,33
+30194,CS,CS 547,Deep Learning,5,33
+49184,CS,CS 554,Parallel Numerical Algorithms,5,33
+21899,CS,CS 563,Advanced Computer Security,5,33
+21162,CS,CS 571,Combinatorial Mathematics,5,33
+80363,CS,CS 576,Topics in Automated Deduction,5,33
+21459,CS,CS 581,Algorithmic Genomic Biology,5,33
+25927,CS,CS 584,Embedded System Verification,5,33
+60815,CS,CS 591,Advanced Seminar,5,33
+96820,CS,CS 598,Special Topics,5,33
+82113,CS,CS 599,Thesis Research,5,33
+80817,CS,CS 225,Data Structures,2,29
+90682,CS,CS 233,Computer Architecture,2,29
+10610,CS,CS 241,System Programming,4,29
+53860,CS,CS 242,Programming Studio,4,29
+54937,CS,CS 296,Honors Course,4,29
+27922,CS,CS 357,Numerical Methods I,3,29
+93301,CS,CS 361,Probability & Statistics for Computer Science,3,29
+51791,CS,CS 374,Introduction to Algorithms & Models of Computation,4,29
+91424,CS,CS 397,Individual Study,4,29
+35810,CS,CS 410,Text Information Systems,4,29
+97832,CS,CS 411,Database Systems,4,29
+98204,CS,CS 412,Introduction to Data Mining,4,29
+18453,CS,CS 413,Intro to Combinatorics,4,29
+54854,CS,CS 418,Interactive Computer Graphics,4,29
+51819,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,29
+71998,CS,CS 421,Programming Languages & Compilers,4,29
+42574,CS,CS 424,Real-Time Systems,4,29
+97476,CS,CS 425,Distributed Systems,4,29
+80894,CS,CS 426,Compiler Construction,4,29
+27894,CS,CS 427,Software Engineering I,4,29
+66742,CS,CS 433,Computer System Organization,4,29
+33279,CS,CS 438,Communication Networks,4,29
+61799,CS,CS 440,Artificial Intelligence,3,29
+74647,CS,CS 445,Computational Photography,4,29
+74503,CS,CS 446,Machine Learning,4,29
+19574,CS,CS 447,Natural Language Processing,4,29
+23729,CS,CS 450,Numerical Analysis,4,29
+31861,CS,CS 461,Computer Security I,4,29
+45664,CS,CS 465,User Interface Design,3,29
+38427,CS,CS 466,Introduction to Bioinformatics,3,29
+74638,CS,CS 473,Algorithms,5,29
+20427,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,29
+22406,CS,CS 483,Applied Parallel Programming,4,29
+86506,CS,CS 484,Parallel Programming,4,29
+28903,CS,CS 491,Seminar,4,29
+13660,CS,CS 493,"Senior Project II, ACP",4,29
+30697,CS,CS 494,Senior Project II,4,29
+27740,CS,CS 497,CS Team Project,4,29
+36551,CS,CS 498,Special Topics,4,29
+74238,CS,CS 499,Senior Thesis,5,29
+59388,CS,CS 510,Advanced Information Retrieval,5,29
+37466,CS,CS 513,Theory & Practice of Data Cleaning,5,29
+34193,CS,CS 523,Advanced Operating Systems,5,29
+35457,CS,CS 536,Fault-Tolerant Dig Syst Design,5,29
+11565,CS,CS 547,Deep Learning,5,29
+79970,CS,CS 554,Parallel Numerical Algorithms,5,29
+78848,CS,CS 563,Advanced Computer Security,5,29
+68756,CS,CS 571,Combinatorial Mathematics,5,29
+19181,CS,CS 576,Topics in Automated Deduction,5,29
+44903,CS,CS 581,Algorithmic Genomic Biology,5,29
+53181,CS,CS 584,Embedded System Verification,5,29
+50968,CS,CS 591,Advanced Seminar,5,29
+99669,CS,CS 598,Special Topics,5,29
+78540,CS,CS 599,Thesis Research,5,29
+41508,CS,CS 225,Data Structures,2,30
+11913,CS,CS 233,Computer Architecture,2,30
+82429,CS,CS 241,System Programming,4,30
+34926,CS,CS 242,Programming Studio,4,30
+81917,CS,CS 296,Honors Course,4,30
+72651,CS,CS 357,Numerical Methods I,3,30
+10566,CS,CS 361,Probability & Statistics for Computer Science,3,30
+23840,CS,CS 374,Introduction to Algorithms & Models of Computation,4,30
+70518,CS,CS 397,Individual Study,4,30
+21163,CS,CS 410,Text Information Systems,4,30
+72976,CS,CS 411,Database Systems,4,30
+68875,CS,CS 412,Introduction to Data Mining,4,30
+85350,CS,CS 413,Intro to Combinatorics,4,30
+73977,CS,CS 418,Interactive Computer Graphics,4,30
+77717,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,30
+49483,CS,CS 421,Programming Languages & Compilers,4,30
+18107,CS,CS 424,Real-Time Systems,4,30
+87829,CS,CS 425,Distributed Systems,4,30
+62616,CS,CS 426,Compiler Construction,4,30
+21027,CS,CS 427,Software Engineering I,4,30
+69488,CS,CS 433,Computer System Organization,4,30
+72523,CS,CS 438,Communication Networks,4,30
+78321,CS,CS 440,Artificial Intelligence,3,30
+34645,CS,CS 445,Computational Photography,4,30
+28720,CS,CS 446,Machine Learning,4,30
+89684,CS,CS 447,Natural Language Processing,4,30
+87362,CS,CS 450,Numerical Analysis,4,30
+85009,CS,CS 461,Computer Security I,4,30
+98206,CS,CS 465,User Interface Design,3,30
+99981,CS,CS 466,Introduction to Bioinformatics,3,30
+46789,CS,CS 473,Algorithms,5,30
+37157,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,30
+95210,CS,CS 483,Applied Parallel Programming,4,30
+46594,CS,CS 484,Parallel Programming,4,30
+22010,CS,CS 491,Seminar,4,30
+69913,CS,CS 493,"Senior Project II, ACP",4,30
+10592,CS,CS 494,Senior Project II,4,30
+31630,CS,CS 497,CS Team Project,4,30
+37804,CS,CS 498,Special Topics,4,30
+23166,CS,CS 499,Senior Thesis,5,30
+46741,CS,CS 510,Advanced Information Retrieval,5,30
+56870,CS,CS 513,Theory & Practice of Data Cleaning,5,30
+66424,CS,CS 523,Advanced Operating Systems,5,30
+65353,CS,CS 536,Fault-Tolerant Dig Syst Design,5,30
+86927,CS,CS 547,Deep Learning,5,30
+27682,CS,CS 554,Parallel Numerical Algorithms,5,30
+81424,CS,CS 563,Advanced Computer Security,5,30
+21670,CS,CS 571,Combinatorial Mathematics,5,30
+34911,CS,CS 576,Topics in Automated Deduction,5,30
+33309,CS,CS 581,Algorithmic Genomic Biology,5,30
+43203,CS,CS 584,Embedded System Verification,5,30
+33553,CS,CS 591,Advanced Seminar,5,30
+22908,CS,CS 598,Special Topics,5,30
+76706,CS,CS 599,Thesis Research,5,30
+75729,CS,CS 225,Data Structures,2,26
+15919,CS,CS 233,Computer Architecture,2,26
+50486,CS,CS 241,System Programming,4,26
+24256,CS,CS 242,Programming Studio,4,26
+30020,CS,CS 296,Honors Course,4,26
+49157,CS,CS 357,Numerical Methods I,3,26
+51499,CS,CS 361,Probability & Statistics for Computer Science,3,26
+84173,CS,CS 374,Introduction to Algorithms & Models of Computation,4,26
+66522,CS,CS 397,Individual Study,4,26
+41982,CS,CS 410,Text Information Systems,4,26
+43291,CS,CS 411,Database Systems,4,26
+46168,CS,CS 412,Introduction to Data Mining,4,26
+92539,CS,CS 413,Intro to Combinatorics,4,26
+66136,CS,CS 418,Interactive Computer Graphics,4,26
+12392,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,26
+81894,CS,CS 421,Programming Languages & Compilers,4,26
+25481,CS,CS 424,Real-Time Systems,4,26
+37957,CS,CS 425,Distributed Systems,4,26
+77038,CS,CS 426,Compiler Construction,4,26
+92005,CS,CS 427,Software Engineering I,4,26
+94071,CS,CS 433,Computer System Organization,4,26
+29837,CS,CS 438,Communication Networks,4,26
+96720,CS,CS 440,Artificial Intelligence,3,26
+60810,CS,CS 445,Computational Photography,4,26
+12988,CS,CS 446,Machine Learning,4,26
+32029,CS,CS 447,Natural Language Processing,4,26
+70888,CS,CS 450,Numerical Analysis,4,26
+53167,CS,CS 461,Computer Security I,4,26
+50478,CS,CS 465,User Interface Design,3,26
+16077,CS,CS 466,Introduction to Bioinformatics,3,26
+74395,CS,CS 473,Algorithms,5,26
+86110,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,26
+26851,CS,CS 483,Applied Parallel Programming,4,26
+94321,CS,CS 484,Parallel Programming,4,26
+81776,CS,CS 491,Seminar,4,26
+62998,CS,CS 493,"Senior Project II, ACP",4,26
+86814,CS,CS 494,Senior Project II,4,26
+34164,CS,CS 497,CS Team Project,4,26
+16353,CS,CS 498,Special Topics,4,26
+32714,CS,CS 499,Senior Thesis,5,26
+71910,CS,CS 510,Advanced Information Retrieval,5,26
+67659,CS,CS 513,Theory & Practice of Data Cleaning,5,26
+39484,CS,CS 523,Advanced Operating Systems,5,26
+30937,CS,CS 536,Fault-Tolerant Dig Syst Design,5,26
+63985,CS,CS 547,Deep Learning,5,26
+70587,CS,CS 554,Parallel Numerical Algorithms,5,26
+14974,CS,CS 563,Advanced Computer Security,5,26
+82489,CS,CS 571,Combinatorial Mathematics,5,26
+31931,CS,CS 576,Topics in Automated Deduction,5,26
+26875,CS,CS 581,Algorithmic Genomic Biology,5,26
+33312,CS,CS 584,Embedded System Verification,5,26
+42311,CS,CS 591,Advanced Seminar,5,26
+41552,CS,CS 598,Special Topics,5,26
+27789,CS,CS 599,Thesis Research,5,26
+23070,CS,CS 225,Data Structures,2,25
+76540,CS,CS 233,Computer Architecture,2,25
+33978,CS,CS 241,System Programming,4,25
+58694,CS,CS 242,Programming Studio,4,25
+23829,CS,CS 296,Honors Course,4,25
+54260,CS,CS 357,Numerical Methods I,3,25
+17635,CS,CS 361,Probability & Statistics for Computer Science,3,25
+34155,CS,CS 374,Introduction to Algorithms & Models of Computation,4,25
+68553,CS,CS 397,Individual Study,4,25
+66360,CS,CS 410,Text Information Systems,4,25
+96183,CS,CS 411,Database Systems,4,25
+91821,CS,CS 412,Introduction to Data Mining,4,25
+66282,CS,CS 413,Intro to Combinatorics,4,25
+63070,CS,CS 418,Interactive Computer Graphics,4,25
+90599,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,25
+55246,CS,CS 421,Programming Languages & Compilers,4,25
+74093,CS,CS 424,Real-Time Systems,4,25
+55053,CS,CS 425,Distributed Systems,4,25
+82010,CS,CS 426,Compiler Construction,4,25
+73277,CS,CS 427,Software Engineering I,4,25
+92040,CS,CS 433,Computer System Organization,4,25
+96763,CS,CS 438,Communication Networks,4,25
+59623,CS,CS 440,Artificial Intelligence,3,25
+58962,CS,CS 445,Computational Photography,4,25
+38226,CS,CS 446,Machine Learning,4,25
+73829,CS,CS 447,Natural Language Processing,4,25
+76057,CS,CS 450,Numerical Analysis,4,25
+83603,CS,CS 461,Computer Security I,4,25
+36463,CS,CS 465,User Interface Design,3,25
+37401,CS,CS 466,Introduction to Bioinformatics,3,25
+88959,CS,CS 473,Algorithms,5,25
+98395,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,25
+34093,CS,CS 483,Applied Parallel Programming,4,25
+91659,CS,CS 484,Parallel Programming,4,25
+43390,CS,CS 491,Seminar,4,25
+31140,CS,CS 493,"Senior Project II, ACP",4,25
+78175,CS,CS 494,Senior Project II,4,25
+30281,CS,CS 497,CS Team Project,4,25
+28192,CS,CS 498,Special Topics,4,25
+29757,CS,CS 499,Senior Thesis,5,25
+33656,CS,CS 510,Advanced Information Retrieval,5,25
+54499,CS,CS 513,Theory & Practice of Data Cleaning,5,25
+35368,CS,CS 523,Advanced Operating Systems,5,25
+32844,CS,CS 536,Fault-Tolerant Dig Syst Design,5,25
+87207,CS,CS 547,Deep Learning,5,25
+38053,CS,CS 554,Parallel Numerical Algorithms,5,25
+34453,CS,CS 563,Advanced Computer Security,5,25
+47080,CS,CS 571,Combinatorial Mathematics,5,25
+26948,CS,CS 576,Topics in Automated Deduction,5,25
+54299,CS,CS 581,Algorithmic Genomic Biology,5,25
+19050,CS,CS 584,Embedded System Verification,5,25
+92069,CS,CS 591,Advanced Seminar,5,25
+80590,CS,CS 598,Special Topics,5,25
+13548,CS,CS 599,Thesis Research,5,25
+11127,CS,CS 225,Data Structures,2,22
+55108,CS,CS 233,Computer Architecture,2,22
+81315,CS,CS 241,System Programming,4,22
+39512,CS,CS 242,Programming Studio,4,22
+56479,CS,CS 296,Honors Course,4,22
+55177,CS,CS 357,Numerical Methods I,3,22
+89512,CS,CS 361,Probability & Statistics for Computer Science,3,22
+68722,CS,CS 374,Introduction to Algorithms & Models of Computation,4,22
+50274,CS,CS 397,Individual Study,4,22
+79960,CS,CS 410,Text Information Systems,4,22
+49299,CS,CS 411,Database Systems,4,22
+61911,CS,CS 412,Introduction to Data Mining,4,22
+98361,CS,CS 413,Intro to Combinatorics,4,22
+47135,CS,CS 418,Interactive Computer Graphics,4,22
+14111,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,22
+49616,CS,CS 421,Programming Languages & Compilers,4,22
+21821,CS,CS 424,Real-Time Systems,4,22
+75874,CS,CS 425,Distributed Systems,4,22
+61486,CS,CS 426,Compiler Construction,4,22
+97617,CS,CS 427,Software Engineering I,4,22
+34711,CS,CS 433,Computer System Organization,4,22
+62911,CS,CS 438,Communication Networks,4,22
+75778,CS,CS 440,Artificial Intelligence,3,22
+18606,CS,CS 445,Computational Photography,4,22
+56412,CS,CS 446,Machine Learning,4,22
+27065,CS,CS 447,Natural Language Processing,4,22
+98349,CS,CS 450,Numerical Analysis,4,22
+60129,CS,CS 461,Computer Security I,4,22
+19613,CS,CS 465,User Interface Design,3,22
+51236,CS,CS 466,Introduction to Bioinformatics,3,22
+94722,CS,CS 473,Algorithms,5,22
+73827,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,22
+97203,CS,CS 483,Applied Parallel Programming,4,22
+23104,CS,CS 484,Parallel Programming,4,22
+93362,CS,CS 491,Seminar,4,22
+82296,CS,CS 493,"Senior Project II, ACP",4,22
+87229,CS,CS 494,Senior Project II,4,22
+66619,CS,CS 497,CS Team Project,4,22
+78837,CS,CS 498,Special Topics,4,22
+87113,CS,CS 499,Senior Thesis,5,22
+41516,CS,CS 510,Advanced Information Retrieval,5,22
+42767,CS,CS 513,Theory & Practice of Data Cleaning,5,22
+69160,CS,CS 523,Advanced Operating Systems,5,22
+37062,CS,CS 536,Fault-Tolerant Dig Syst Design,5,22
+36512,CS,CS 547,Deep Learning,5,22
+74352,CS,CS 554,Parallel Numerical Algorithms,5,22
+53414,CS,CS 563,Advanced Computer Security,5,22
+57322,CS,CS 571,Combinatorial Mathematics,5,22
+71193,CS,CS 576,Topics in Automated Deduction,5,22
+95957,CS,CS 581,Algorithmic Genomic Biology,5,22
+81999,CS,CS 584,Embedded System Verification,5,22
+19904,CS,CS 591,Advanced Seminar,5,22
+40251,CS,CS 598,Special Topics,5,22
+53762,CS,CS 599,Thesis Research,5,22
+41465,CS,CS 225,Data Structures,2,22
+82801,CS,CS 233,Computer Architecture,2,22
+94641,CS,CS 241,System Programming,4,22
+17941,CS,CS 242,Programming Studio,4,22
+72764,CS,CS 296,Honors Course,4,22
+82432,CS,CS 357,Numerical Methods I,3,22
+93333,CS,CS 361,Probability & Statistics for Computer Science,3,22
+62407,CS,CS 374,Introduction to Algorithms & Models of Computation,4,22
+81951,CS,CS 397,Individual Study,4,22
+19754,CS,CS 410,Text Information Systems,4,22
+20133,CS,CS 411,Database Systems,4,22
+79569,CS,CS 412,Introduction to Data Mining,4,22
+87751,CS,CS 413,Intro to Combinatorics,4,22
+93092,CS,CS 418,Interactive Computer Graphics,4,22
+82449,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,22
+86591,CS,CS 421,Programming Languages & Compilers,4,22
+82174,CS,CS 424,Real-Time Systems,4,22
+24924,CS,CS 425,Distributed Systems,4,22
+89936,CS,CS 426,Compiler Construction,4,22
+10574,CS,CS 427,Software Engineering I,4,22
+91053,CS,CS 433,Computer System Organization,4,22
+18933,CS,CS 438,Communication Networks,4,22
+92467,CS,CS 440,Artificial Intelligence,3,22
+10275,CS,CS 445,Computational Photography,4,22
+65993,CS,CS 446,Machine Learning,4,22
+95507,CS,CS 447,Natural Language Processing,4,22
+96995,CS,CS 450,Numerical Analysis,4,22
+96164,CS,CS 461,Computer Security I,4,22
+76959,CS,CS 465,User Interface Design,3,22
+17041,CS,CS 466,Introduction to Bioinformatics,3,22
+63817,CS,CS 473,Algorithms,5,22
+56018,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,22
+47032,CS,CS 483,Applied Parallel Programming,4,22
+40335,CS,CS 484,Parallel Programming,4,22
+53089,CS,CS 491,Seminar,4,22
+26641,CS,CS 493,"Senior Project II, ACP",4,22
+88731,CS,CS 494,Senior Project II,4,22
+96112,CS,CS 497,CS Team Project,4,22
+90300,CS,CS 498,Special Topics,4,22
+53188,CS,CS 499,Senior Thesis,5,22
+69667,CS,CS 510,Advanced Information Retrieval,5,22
+48980,CS,CS 513,Theory & Practice of Data Cleaning,5,22
+68758,CS,CS 523,Advanced Operating Systems,5,22
+22810,CS,CS 536,Fault-Tolerant Dig Syst Design,5,22
+27967,CS,CS 547,Deep Learning,5,22
+18782,CS,CS 554,Parallel Numerical Algorithms,5,22
+90257,CS,CS 563,Advanced Computer Security,5,22
+96885,CS,CS 571,Combinatorial Mathematics,5,22
+96171,CS,CS 576,Topics in Automated Deduction,5,22
+89877,CS,CS 581,Algorithmic Genomic Biology,5,22
+59169,CS,CS 584,Embedded System Verification,5,22
+74116,CS,CS 591,Advanced Seminar,5,22
+38095,CS,CS 598,Special Topics,5,22
+58824,CS,CS 599,Thesis Research,5,22
+93603,CS,CS 225,Data Structures,2,21
+73879,CS,CS 233,Computer Architecture,2,21
+73466,CS,CS 241,System Programming,4,21
+95601,CS,CS 242,Programming Studio,4,21
+63621,CS,CS 296,Honors Course,4,21
+42190,CS,CS 357,Numerical Methods I,3,21
+70602,CS,CS 361,Probability & Statistics for Computer Science,3,21
+14154,CS,CS 374,Introduction to Algorithms & Models of Computation,4,21
+34036,CS,CS 397,Individual Study,4,21
+65311,CS,CS 410,Text Information Systems,4,21
+66383,CS,CS 411,Database Systems,4,21
+63228,CS,CS 412,Introduction to Data Mining,4,21
+13382,CS,CS 413,Intro to Combinatorics,4,21
+57133,CS,CS 418,Interactive Computer Graphics,4,21
+25519,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,21
+29543,CS,CS 421,Programming Languages & Compilers,4,21
+70661,CS,CS 424,Real-Time Systems,4,21
+67563,CS,CS 425,Distributed Systems,4,21
+27798,CS,CS 426,Compiler Construction,4,21
+28702,CS,CS 427,Software Engineering I,4,21
+24863,CS,CS 433,Computer System Organization,4,21
+69734,CS,CS 438,Communication Networks,4,21
+82000,CS,CS 440,Artificial Intelligence,3,21
+74176,CS,CS 445,Computational Photography,4,21
+85574,CS,CS 446,Machine Learning,4,21
+92873,CS,CS 447,Natural Language Processing,4,21
+40394,CS,CS 450,Numerical Analysis,4,21
+48289,CS,CS 461,Computer Security I,4,21
+12277,CS,CS 465,User Interface Design,3,21
+25773,CS,CS 466,Introduction to Bioinformatics,3,21
+73564,CS,CS 473,Algorithms,5,21
+28534,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,21
+68328,CS,CS 483,Applied Parallel Programming,4,21
+26441,CS,CS 484,Parallel Programming,4,21
+12137,CS,CS 491,Seminar,4,21
+20540,CS,CS 493,"Senior Project II, ACP",4,21
+25888,CS,CS 494,Senior Project II,4,21
+47993,CS,CS 497,CS Team Project,4,21
+18903,CS,CS 498,Special Topics,4,21
+73341,CS,CS 499,Senior Thesis,5,21
+71425,CS,CS 510,Advanced Information Retrieval,5,21
+26122,CS,CS 513,Theory & Practice of Data Cleaning,5,21
+51902,CS,CS 523,Advanced Operating Systems,5,21
+38885,CS,CS 536,Fault-Tolerant Dig Syst Design,5,21
+18907,CS,CS 547,Deep Learning,5,21
+48783,CS,CS 554,Parallel Numerical Algorithms,5,21
+67249,CS,CS 563,Advanced Computer Security,5,21
+78516,CS,CS 571,Combinatorial Mathematics,5,21
+45610,CS,CS 576,Topics in Automated Deduction,5,21
+71530,CS,CS 581,Algorithmic Genomic Biology,5,21
+96407,CS,CS 584,Embedded System Verification,5,21
+68451,CS,CS 591,Advanced Seminar,5,21
+72501,CS,CS 598,Special Topics,5,21
+75317,CS,CS 599,Thesis Research,5,21
+97220,CS,CS 225,Data Structures,2,18
+69022,CS,CS 233,Computer Architecture,2,18
+90851,CS,CS 241,System Programming,4,18
+82580,CS,CS 242,Programming Studio,4,18
+86369,CS,CS 296,Honors Course,4,18
+24080,CS,CS 357,Numerical Methods I,3,18
+84079,CS,CS 361,Probability & Statistics for Computer Science,3,18
+92086,CS,CS 374,Introduction to Algorithms & Models of Computation,4,18
+91552,CS,CS 397,Individual Study,4,18
+73803,CS,CS 410,Text Information Systems,4,18
+51200,CS,CS 411,Database Systems,4,18
+31933,CS,CS 412,Introduction to Data Mining,4,18
+14288,CS,CS 413,Intro to Combinatorics,4,18
+97831,CS,CS 418,Interactive Computer Graphics,4,18
+72339,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,18
+42446,CS,CS 421,Programming Languages & Compilers,4,18
+21455,CS,CS 424,Real-Time Systems,4,18
+45991,CS,CS 425,Distributed Systems,4,18
+63479,CS,CS 426,Compiler Construction,4,18
+49192,CS,CS 427,Software Engineering I,4,18
+44412,CS,CS 433,Computer System Organization,4,18
+81650,CS,CS 438,Communication Networks,4,18
+32681,CS,CS 440,Artificial Intelligence,3,18
+29148,CS,CS 445,Computational Photography,4,18
+19423,CS,CS 446,Machine Learning,4,18
+55396,CS,CS 447,Natural Language Processing,4,18
+28378,CS,CS 450,Numerical Analysis,4,18
+25603,CS,CS 461,Computer Security I,4,18
+59823,CS,CS 465,User Interface Design,3,18
+81425,CS,CS 466,Introduction to Bioinformatics,3,18
+32697,CS,CS 473,Algorithms,5,18
+11103,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,18
+61212,CS,CS 483,Applied Parallel Programming,4,18
+56891,CS,CS 484,Parallel Programming,4,18
+80197,CS,CS 491,Seminar,4,18
+32779,CS,CS 493,"Senior Project II, ACP",4,18
+20453,CS,CS 494,Senior Project II,4,18
+56987,CS,CS 497,CS Team Project,4,18
+94652,CS,CS 498,Special Topics,4,18
+90782,CS,CS 499,Senior Thesis,5,18
+43222,CS,CS 510,Advanced Information Retrieval,5,18
+58777,CS,CS 513,Theory & Practice of Data Cleaning,5,18
+79572,CS,CS 523,Advanced Operating Systems,5,18
+82678,CS,CS 536,Fault-Tolerant Dig Syst Design,5,18
+39772,CS,CS 547,Deep Learning,5,18
+59369,CS,CS 554,Parallel Numerical Algorithms,5,18
+23251,CS,CS 563,Advanced Computer Security,5,18
+19934,CS,CS 571,Combinatorial Mathematics,5,18
+86685,CS,CS 576,Topics in Automated Deduction,5,18
+68459,CS,CS 581,Algorithmic Genomic Biology,5,18
+31781,CS,CS 584,Embedded System Verification,5,18
+75711,CS,CS 591,Advanced Seminar,5,18
+55577,CS,CS 598,Special Topics,5,18
+46998,CS,CS 599,Thesis Research,5,18
+72754,CS,CS 225,Data Structures,2,17
+82464,CS,CS 233,Computer Architecture,2,17
+16243,CS,CS 241,System Programming,4,17
+96759,CS,CS 242,Programming Studio,4,17
+32382,CS,CS 296,Honors Course,4,17
+15072,CS,CS 357,Numerical Methods I,3,17
+78553,CS,CS 361,Probability & Statistics for Computer Science,3,17
+40095,CS,CS 374,Introduction to Algorithms & Models of Computation,4,17
+39127,CS,CS 397,Individual Study,4,17
+94334,CS,CS 410,Text Information Systems,4,17
+96048,CS,CS 411,Database Systems,4,17
+15410,CS,CS 412,Introduction to Data Mining,4,17
+63881,CS,CS 413,Intro to Combinatorics,4,17
+49116,CS,CS 418,Interactive Computer Graphics,4,17
+28715,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,17
+31969,CS,CS 421,Programming Languages & Compilers,4,17
+95356,CS,CS 424,Real-Time Systems,4,17
+67517,CS,CS 425,Distributed Systems,4,17
+48658,CS,CS 426,Compiler Construction,4,17
+56395,CS,CS 427,Software Engineering I,4,17
+34845,CS,CS 433,Computer System Organization,4,17
+79740,CS,CS 438,Communication Networks,4,17
+48400,CS,CS 440,Artificial Intelligence,3,17
+42735,CS,CS 445,Computational Photography,4,17
+45394,CS,CS 446,Machine Learning,4,17
+30068,CS,CS 447,Natural Language Processing,4,17
+26973,CS,CS 450,Numerical Analysis,4,17
+62159,CS,CS 461,Computer Security I,4,17
+24145,CS,CS 465,User Interface Design,3,17
+15147,CS,CS 466,Introduction to Bioinformatics,3,17
+12438,CS,CS 473,Algorithms,5,17
+86725,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,17
+48060,CS,CS 483,Applied Parallel Programming,4,17
+41000,CS,CS 484,Parallel Programming,4,17
+90038,CS,CS 491,Seminar,4,17
+69039,CS,CS 493,"Senior Project II, ACP",4,17
+39482,CS,CS 494,Senior Project II,4,17
+85818,CS,CS 497,CS Team Project,4,17
+73646,CS,CS 498,Special Topics,4,17
+97168,CS,CS 499,Senior Thesis,5,17
+79053,CS,CS 510,Advanced Information Retrieval,5,17
+78843,CS,CS 513,Theory & Practice of Data Cleaning,5,17
+11293,CS,CS 523,Advanced Operating Systems,5,17
+28304,CS,CS 536,Fault-Tolerant Dig Syst Design,5,17
+97992,CS,CS 547,Deep Learning,5,17
+61414,CS,CS 554,Parallel Numerical Algorithms,5,17
+71857,CS,CS 563,Advanced Computer Security,5,17
+94529,CS,CS 571,Combinatorial Mathematics,5,17
+22761,CS,CS 576,Topics in Automated Deduction,5,17
+62669,CS,CS 581,Algorithmic Genomic Biology,5,17
+10189,CS,CS 584,Embedded System Verification,5,17
+50048,CS,CS 591,Advanced Seminar,5,17
+39433,CS,CS 598,Special Topics,5,17
+89607,CS,CS 599,Thesis Research,5,17
+36487,CS,CS 225,Data Structures,2,14
+99421,CS,CS 233,Computer Architecture,2,14
+20815,CS,CS 241,System Programming,4,14
+18928,CS,CS 242,Programming Studio,4,14
+93514,CS,CS 296,Honors Course,4,14
+36265,CS,CS 357,Numerical Methods I,3,14
+29398,CS,CS 361,Probability & Statistics for Computer Science,3,14
+75180,CS,CS 374,Introduction to Algorithms & Models of Computation,4,14
+16788,CS,CS 397,Individual Study,4,14
+35095,CS,CS 410,Text Information Systems,4,14
+50165,CS,CS 411,Database Systems,4,14
+91001,CS,CS 412,Introduction to Data Mining,4,14
+96471,CS,CS 413,Intro to Combinatorics,4,14
+80708,CS,CS 418,Interactive Computer Graphics,4,14
+64055,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,14
+14734,CS,CS 421,Programming Languages & Compilers,4,14
+92494,CS,CS 424,Real-Time Systems,4,14
+20799,CS,CS 425,Distributed Systems,4,14
+45777,CS,CS 426,Compiler Construction,4,14
+20347,CS,CS 427,Software Engineering I,4,14
+68292,CS,CS 433,Computer System Organization,4,14
+97297,CS,CS 438,Communication Networks,4,14
+23935,CS,CS 440,Artificial Intelligence,3,14
+79314,CS,CS 445,Computational Photography,4,14
+25551,CS,CS 446,Machine Learning,4,14
+79479,CS,CS 447,Natural Language Processing,4,14
+47413,CS,CS 450,Numerical Analysis,4,14
+56335,CS,CS 461,Computer Security I,4,14
+63337,CS,CS 465,User Interface Design,3,14
+82825,CS,CS 466,Introduction to Bioinformatics,3,14
+48693,CS,CS 473,Algorithms,5,14
+85063,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,14
+97458,CS,CS 483,Applied Parallel Programming,4,14
+51113,CS,CS 484,Parallel Programming,4,14
+13183,CS,CS 491,Seminar,4,14
+34342,CS,CS 493,"Senior Project II, ACP",4,14
+34511,CS,CS 494,Senior Project II,4,14
+37070,CS,CS 497,CS Team Project,4,14
+24046,CS,CS 498,Special Topics,4,14
+29113,CS,CS 499,Senior Thesis,5,14
+35280,CS,CS 510,Advanced Information Retrieval,5,14
+16059,CS,CS 513,Theory & Practice of Data Cleaning,5,14
+49385,CS,CS 523,Advanced Operating Systems,5,14
+18101,CS,CS 536,Fault-Tolerant Dig Syst Design,5,14
+34065,CS,CS 547,Deep Learning,5,14
+57985,CS,CS 554,Parallel Numerical Algorithms,5,14
+27823,CS,CS 563,Advanced Computer Security,5,14
+98479,CS,CS 571,Combinatorial Mathematics,5,14
+83502,CS,CS 576,Topics in Automated Deduction,5,14
+33549,CS,CS 581,Algorithmic Genomic Biology,5,14
+64680,CS,CS 584,Embedded System Verification,5,14
+91019,CS,CS 591,Advanced Seminar,5,14
+78369,CS,CS 598,Special Topics,5,14
+10019,CS,CS 599,Thesis Research,5,14
+56579,CS,CS 225,Data Structures,2,13
+86647,CS,CS 233,Computer Architecture,2,13
+11489,CS,CS 241,System Programming,4,13
+28347,CS,CS 242,Programming Studio,4,13
+85868,CS,CS 296,Honors Course,4,13
+24686,CS,CS 357,Numerical Methods I,3,13
+94559,CS,CS 361,Probability & Statistics for Computer Science,3,13
+45834,CS,CS 374,Introduction to Algorithms & Models of Computation,4,13
+36789,CS,CS 397,Individual Study,4,13
+30457,CS,CS 410,Text Information Systems,4,13
+85058,CS,CS 411,Database Systems,4,13
+28481,CS,CS 412,Introduction to Data Mining,4,13
+95090,CS,CS 413,Intro to Combinatorics,4,13
+18745,CS,CS 418,Interactive Computer Graphics,4,13
+98693,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,13
+60060,CS,CS 421,Programming Languages & Compilers,4,13
+84741,CS,CS 424,Real-Time Systems,4,13
+16014,CS,CS 425,Distributed Systems,4,13
+57248,CS,CS 426,Compiler Construction,4,13
+39513,CS,CS 427,Software Engineering I,4,13
+36014,CS,CS 433,Computer System Organization,4,13
+84232,CS,CS 438,Communication Networks,4,13
+28717,CS,CS 440,Artificial Intelligence,3,13
+89252,CS,CS 445,Computational Photography,4,13
+81422,CS,CS 446,Machine Learning,4,13
+67614,CS,CS 447,Natural Language Processing,4,13
+81945,CS,CS 450,Numerical Analysis,4,13
+17769,CS,CS 461,Computer Security I,4,13
+61565,CS,CS 465,User Interface Design,3,13
+87616,CS,CS 466,Introduction to Bioinformatics,3,13
+71419,CS,CS 473,Algorithms,5,13
+12747,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,13
+25507,CS,CS 483,Applied Parallel Programming,4,13
+27619,CS,CS 484,Parallel Programming,4,13
+92244,CS,CS 491,Seminar,4,13
+34323,CS,CS 493,"Senior Project II, ACP",4,13
+23001,CS,CS 494,Senior Project II,4,13
+47444,CS,CS 497,CS Team Project,4,13
+92960,CS,CS 498,Special Topics,4,13
+16322,CS,CS 499,Senior Thesis,5,13
+91089,CS,CS 510,Advanced Information Retrieval,5,13
+65990,CS,CS 513,Theory & Practice of Data Cleaning,5,13
+97720,CS,CS 523,Advanced Operating Systems,5,13
+35885,CS,CS 536,Fault-Tolerant Dig Syst Design,5,13
+36107,CS,CS 547,Deep Learning,5,13
+92131,CS,CS 554,Parallel Numerical Algorithms,5,13
+53977,CS,CS 563,Advanced Computer Security,5,13
+75814,CS,CS 571,Combinatorial Mathematics,5,13
+44065,CS,CS 576,Topics in Automated Deduction,5,13
+46898,CS,CS 581,Algorithmic Genomic Biology,5,13
+14472,CS,CS 584,Embedded System Verification,5,13
+57817,CS,CS 591,Advanced Seminar,5,13
+87719,CS,CS 598,Special Topics,5,13
+23391,CS,CS 599,Thesis Research,5,13
+11153,CS,CS 225,Data Structures,2,10
+80640,CS,CS 233,Computer Architecture,2,10
+79147,CS,CS 241,System Programming,4,10
+84420,CS,CS 242,Programming Studio,4,10
+18371,CS,CS 296,Honors Course,4,10
+62932,CS,CS 357,Numerical Methods I,3,10
+67996,CS,CS 361,Probability & Statistics for Computer Science,3,10
+73669,CS,CS 374,Introduction to Algorithms & Models of Computation,4,10
+66309,CS,CS 397,Individual Study,4,10
+58904,CS,CS 410,Text Information Systems,4,10
+62333,CS,CS 411,Database Systems,4,10
+78490,CS,CS 412,Introduction to Data Mining,4,10
+15490,CS,CS 413,Intro to Combinatorics,4,10
+25569,CS,CS 418,Interactive Computer Graphics,4,10
+31619,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,10
+52695,CS,CS 421,Programming Languages & Compilers,4,10
+85094,CS,CS 424,Real-Time Systems,4,10
+41527,CS,CS 425,Distributed Systems,4,10
+80744,CS,CS 426,Compiler Construction,4,10
+25829,CS,CS 427,Software Engineering I,4,10
+39598,CS,CS 433,Computer System Organization,4,10
+10400,CS,CS 438,Communication Networks,4,10
+29802,CS,CS 440,Artificial Intelligence,3,10
+29429,CS,CS 445,Computational Photography,4,10
+87361,CS,CS 446,Machine Learning,4,10
+99818,CS,CS 447,Natural Language Processing,4,10
+35664,CS,CS 450,Numerical Analysis,4,10
+60239,CS,CS 461,Computer Security I,4,10
+89967,CS,CS 465,User Interface Design,3,10
+50555,CS,CS 466,Introduction to Bioinformatics,3,10
+67894,CS,CS 473,Algorithms,5,10
+89584,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,10
+12549,CS,CS 483,Applied Parallel Programming,4,10
+60122,CS,CS 484,Parallel Programming,4,10
+50691,CS,CS 491,Seminar,4,10
+29436,CS,CS 493,"Senior Project II, ACP",4,10
+65010,CS,CS 494,Senior Project II,4,10
+15602,CS,CS 497,CS Team Project,4,10
+10055,CS,CS 498,Special Topics,4,10
+76570,CS,CS 499,Senior Thesis,5,10
+67817,CS,CS 510,Advanced Information Retrieval,5,10
+26234,CS,CS 513,Theory & Practice of Data Cleaning,5,10
+69264,CS,CS 523,Advanced Operating Systems,5,10
+19966,CS,CS 536,Fault-Tolerant Dig Syst Design,5,10
+13167,CS,CS 547,Deep Learning,5,10
+28269,CS,CS 554,Parallel Numerical Algorithms,5,10
+13111,CS,CS 563,Advanced Computer Security,5,10
+51559,CS,CS 571,Combinatorial Mathematics,5,10
+51390,CS,CS 576,Topics in Automated Deduction,5,10
+95738,CS,CS 581,Algorithmic Genomic Biology,5,10
+92777,CS,CS 584,Embedded System Verification,5,10
+33113,CS,CS 591,Advanced Seminar,5,10
+16044,CS,CS 598,Special Topics,5,10
+57513,CS,CS 599,Thesis Research,5,10
+14999,CS,CS 225,Data Structures,2,9
+61399,CS,CS 233,Computer Architecture,2,9
+56254,CS,CS 241,System Programming,4,9
+95197,CS,CS 242,Programming Studio,4,9
+95287,CS,CS 296,Honors Course,4,9
+97068,CS,CS 357,Numerical Methods I,3,9
+89647,CS,CS 361,Probability & Statistics for Computer Science,3,9
+24974,CS,CS 374,Introduction to Algorithms & Models of Computation,4,9
+50757,CS,CS 397,Individual Study,4,9
+31008,CS,CS 410,Text Information Systems,4,9
+28637,CS,CS 411,Database Systems,4,9
+67404,CS,CS 412,Introduction to Data Mining,4,9
+43405,CS,CS 413,Intro to Combinatorics,4,9
+64982,CS,CS 418,Interactive Computer Graphics,4,9
+75644,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,9
+34285,CS,CS 421,Programming Languages & Compilers,4,9
+22850,CS,CS 424,Real-Time Systems,4,9
+72034,CS,CS 425,Distributed Systems,4,9
+51954,CS,CS 426,Compiler Construction,4,9
+23300,CS,CS 427,Software Engineering I,4,9
+95199,CS,CS 433,Computer System Organization,4,9
+85164,CS,CS 438,Communication Networks,4,9
+40057,CS,CS 440,Artificial Intelligence,3,9
+16641,CS,CS 445,Computational Photography,4,9
+90427,CS,CS 446,Machine Learning,4,9
+34501,CS,CS 447,Natural Language Processing,4,9
+52497,CS,CS 450,Numerical Analysis,4,9
+47724,CS,CS 461,Computer Security I,4,9
+67263,CS,CS 465,User Interface Design,3,9
+82418,CS,CS 466,Introduction to Bioinformatics,3,9
+39019,CS,CS 473,Algorithms,5,9
+75012,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,9
+25625,CS,CS 483,Applied Parallel Programming,4,9
+42038,CS,CS 484,Parallel Programming,4,9
+46814,CS,CS 491,Seminar,4,9
+66928,CS,CS 493,"Senior Project II, ACP",4,9
+23388,CS,CS 494,Senior Project II,4,9
+17657,CS,CS 497,CS Team Project,4,9
+82782,CS,CS 498,Special Topics,4,9
+24389,CS,CS 499,Senior Thesis,5,9
+84646,CS,CS 510,Advanced Information Retrieval,5,9
+11045,CS,CS 513,Theory & Practice of Data Cleaning,5,9
+24079,CS,CS 523,Advanced Operating Systems,5,9
+32578,CS,CS 536,Fault-Tolerant Dig Syst Design,5,9
+72723,CS,CS 547,Deep Learning,5,9
+59220,CS,CS 554,Parallel Numerical Algorithms,5,9
+72475,CS,CS 563,Advanced Computer Security,5,9
+88096,CS,CS 571,Combinatorial Mathematics,5,9
+92472,CS,CS 576,Topics in Automated Deduction,5,9
+75593,CS,CS 581,Algorithmic Genomic Biology,5,9
+94850,CS,CS 584,Embedded System Verification,5,9
+92629,CS,CS 591,Advanced Seminar,5,9
+56683,CS,CS 598,Special Topics,5,9
+72682,CS,CS 599,Thesis Research,5,9
+27521,CS,CS 225,Data Structures,2,6
+70388,CS,CS 233,Computer Architecture,2,6
+29197,CS,CS 241,System Programming,4,6
+31382,CS,CS 242,Programming Studio,4,6
+76511,CS,CS 296,Honors Course,4,6
+75383,CS,CS 357,Numerical Methods I,3,6
+12064,CS,CS 361,Probability & Statistics for Computer Science,3,6
+88438,CS,CS 374,Introduction to Algorithms & Models of Computation,4,6
+12955,CS,CS 397,Individual Study,4,6
+22594,CS,CS 410,Text Information Systems,4,6
+48718,CS,CS 411,Database Systems,4,6
+38790,CS,CS 412,Introduction to Data Mining,4,6
+75509,CS,CS 413,Intro to Combinatorics,4,6
+77652,CS,CS 418,Interactive Computer Graphics,4,6
+70320,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,6
+95953,CS,CS 421,Programming Languages & Compilers,4,6
+55390,CS,CS 424,Real-Time Systems,4,6
+77325,CS,CS 425,Distributed Systems,4,6
+14758,CS,CS 426,Compiler Construction,4,6
+60676,CS,CS 427,Software Engineering I,4,6
+92521,CS,CS 433,Computer System Organization,4,6
+27435,CS,CS 438,Communication Networks,4,6
+93943,CS,CS 440,Artificial Intelligence,3,6
+79683,CS,CS 445,Computational Photography,4,6
+91933,CS,CS 446,Machine Learning,4,6
+10397,CS,CS 447,Natural Language Processing,4,6
+34512,CS,CS 450,Numerical Analysis,4,6
+98102,CS,CS 461,Computer Security I,4,6
+43831,CS,CS 465,User Interface Design,3,6
+30925,CS,CS 466,Introduction to Bioinformatics,3,6
+44425,CS,CS 473,Algorithms,5,6
+75962,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,6
+98902,CS,CS 483,Applied Parallel Programming,4,6
+33157,CS,CS 484,Parallel Programming,4,6
+32318,CS,CS 491,Seminar,4,6
+95151,CS,CS 493,"Senior Project II, ACP",4,6
+20728,CS,CS 494,Senior Project II,4,6
+16881,CS,CS 497,CS Team Project,4,6
+61350,CS,CS 498,Special Topics,4,6
+28789,CS,CS 499,Senior Thesis,5,6
+27462,CS,CS 510,Advanced Information Retrieval,5,6
+29991,CS,CS 513,Theory & Practice of Data Cleaning,5,6
+69767,CS,CS 523,Advanced Operating Systems,5,6
+29857,CS,CS 536,Fault-Tolerant Dig Syst Design,5,6
+98904,CS,CS 547,Deep Learning,5,6
+25294,CS,CS 554,Parallel Numerical Algorithms,5,6
+77630,CS,CS 563,Advanced Computer Security,5,6
+95288,CS,CS 571,Combinatorial Mathematics,5,6
+12292,CS,CS 576,Topics in Automated Deduction,5,6
+51955,CS,CS 581,Algorithmic Genomic Biology,5,6
+98650,CS,CS 584,Embedded System Verification,5,6
+88752,CS,CS 591,Advanced Seminar,5,6
+16813,CS,CS 598,Special Topics,5,6
+10416,CS,CS 599,Thesis Research,5,6
+94994,CS,CS 225,Data Structures,2,5
+62764,CS,CS 233,Computer Architecture,2,5
+65544,CS,CS 241,System Programming,4,5
+18020,CS,CS 242,Programming Studio,4,5
+97841,CS,CS 296,Honors Course,4,5
+98628,CS,CS 357,Numerical Methods I,3,5
+11105,CS,CS 361,Probability & Statistics for Computer Science,3,5
+70009,CS,CS 374,Introduction to Algorithms & Models of Computation,4,5
+52197,CS,CS 397,Individual Study,4,5
+67606,CS,CS 410,Text Information Systems,4,5
+40754,CS,CS 411,Database Systems,4,5
+40835,CS,CS 412,Introduction to Data Mining,4,5
+13087,CS,CS 413,Intro to Combinatorics,4,5
+20157,CS,CS 418,Interactive Computer Graphics,4,5
+18428,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,5
+44995,CS,CS 421,Programming Languages & Compilers,4,5
+20926,CS,CS 424,Real-Time Systems,4,5
+26493,CS,CS 425,Distributed Systems,4,5
+99055,CS,CS 426,Compiler Construction,4,5
+54976,CS,CS 427,Software Engineering I,4,5
+57614,CS,CS 433,Computer System Organization,4,5
+10649,CS,CS 438,Communication Networks,4,5
+39410,CS,CS 440,Artificial Intelligence,3,5
+71527,CS,CS 445,Computational Photography,4,5
+21001,CS,CS 446,Machine Learning,4,5
+38318,CS,CS 447,Natural Language Processing,4,5
+38470,CS,CS 450,Numerical Analysis,4,5
+68092,CS,CS 461,Computer Security I,4,5
+35347,CS,CS 465,User Interface Design,3,5
+62720,CS,CS 466,Introduction to Bioinformatics,3,5
+40375,CS,CS 473,Algorithms,5,5
+45207,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,5
+83932,CS,CS 483,Applied Parallel Programming,4,5
+99510,CS,CS 484,Parallel Programming,4,5
+36191,CS,CS 491,Seminar,4,5
+87472,CS,CS 493,"Senior Project II, ACP",4,5
+16161,CS,CS 494,Senior Project II,4,5
+80561,CS,CS 497,CS Team Project,4,5
+34078,CS,CS 498,Special Topics,4,5
+78877,CS,CS 499,Senior Thesis,5,5
+41746,CS,CS 510,Advanced Information Retrieval,5,5
+53068,CS,CS 513,Theory & Practice of Data Cleaning,5,5
+88598,CS,CS 523,Advanced Operating Systems,5,5
+26510,CS,CS 536,Fault-Tolerant Dig Syst Design,5,5
+44767,CS,CS 547,Deep Learning,5,5
+34089,CS,CS 554,Parallel Numerical Algorithms,5,5
+70219,CS,CS 563,Advanced Computer Security,5,5
+65087,CS,CS 571,Combinatorial Mathematics,5,5
+19073,CS,CS 576,Topics in Automated Deduction,5,5
+10571,CS,CS 581,Algorithmic Genomic Biology,5,5
+53625,CS,CS 584,Embedded System Verification,5,5
+73770,CS,CS 591,Advanced Seminar,5,5
+60321,CS,CS 598,Special Topics,5,5
+69998,CS,CS 599,Thesis Research,5,5
+81516,CS,CS 225,Data Structures,2,2
+28968,CS,CS 233,Computer Architecture,2,2
+28439,CS,CS 241,System Programming,4,2
+70054,CS,CS 242,Programming Studio,4,2
+15213,CS,CS 296,Honors Course,4,2
+69660,CS,CS 357,Numerical Methods I,3,2
+55626,CS,CS 361,Probability & Statistics for Computer Science,3,2
+96922,CS,CS 374,Introduction to Algorithms & Models of Computation,4,2
+25016,CS,CS 397,Individual Study,4,2
+30770,CS,CS 410,Text Information Systems,4,2
+70415,CS,CS 411,Database Systems,4,2
+14446,CS,CS 412,Introduction to Data Mining,4,2
+21794,CS,CS 413,Intro to Combinatorics,4,2
+57328,CS,CS 418,Interactive Computer Graphics,4,2
+11311,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,2
+35981,CS,CS 421,Programming Languages & Compilers,4,2
+19818,CS,CS 424,Real-Time Systems,4,2
+38133,CS,CS 425,Distributed Systems,4,2
+81687,CS,CS 426,Compiler Construction,4,2
+41643,CS,CS 427,Software Engineering I,4,2
+13348,CS,CS 433,Computer System Organization,4,2
+96379,CS,CS 438,Communication Networks,4,2
+44003,CS,CS 440,Artificial Intelligence,3,2
+25433,CS,CS 445,Computational Photography,4,2
+36061,CS,CS 446,Machine Learning,4,2
+12716,CS,CS 447,Natural Language Processing,4,2
+98995,CS,CS 450,Numerical Analysis,4,2
+24418,CS,CS 461,Computer Security I,4,2
+24886,CS,CS 465,User Interface Design,3,2
+68074,CS,CS 466,Introduction to Bioinformatics,3,2
+83785,CS,CS 473,Algorithms,5,2
+81600,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,2
+51405,CS,CS 483,Applied Parallel Programming,4,2
+20846,CS,CS 484,Parallel Programming,4,2
+18544,CS,CS 491,Seminar,4,2
+22901,CS,CS 493,"Senior Project II, ACP",4,2
+23743,CS,CS 494,Senior Project II,4,2
+58607,CS,CS 497,CS Team Project,4,2
+42797,CS,CS 498,Special Topics,4,2
+84072,CS,CS 499,Senior Thesis,5,2
+64833,CS,CS 510,Advanced Information Retrieval,5,2
+15708,CS,CS 513,Theory & Practice of Data Cleaning,5,2
+76651,CS,CS 523,Advanced Operating Systems,5,2
+37656,CS,CS 536,Fault-Tolerant Dig Syst Design,5,2
+88052,CS,CS 547,Deep Learning,5,2
+29208,CS,CS 554,Parallel Numerical Algorithms,5,2
+42938,CS,CS 563,Advanced Computer Security,5,2
+98887,CS,CS 571,Combinatorial Mathematics,5,2
+81602,CS,CS 576,Topics in Automated Deduction,5,2
+98190,CS,CS 581,Algorithmic Genomic Biology,5,2
+39153,CS,CS 584,Embedded System Verification,5,2
+20505,CS,CS 591,Advanced Seminar,5,2
+64480,CS,CS 598,Special Topics,5,2
+26039,CS,CS 599,Thesis Research,5,2
+94685,CS,CS 225,Data Structures,2,1
+43227,CS,CS 233,Computer Architecture,2,1
+14066,CS,CS 241,System Programming,4,1
+61979,CS,CS 242,Programming Studio,4,1
+88136,CS,CS 296,Honors Course,4,1
+54529,CS,CS 357,Numerical Methods I,3,1
+60860,CS,CS 361,Probability & Statistics for Computer Science,3,1
+62950,CS,CS 374,Introduction to Algorithms & Models of Computation,4,1
+29375,CS,CS 397,Individual Study,4,1
+64396,CS,CS 410,Text Information Systems,4,1
+62662,CS,CS 411,Database Systems,4,1
+99923,CS,CS 412,Introduction to Data Mining,4,1
+73505,CS,CS 413,Intro to Combinatorics,4,1
+28043,CS,CS 418,Interactive Computer Graphics,4,1
+88439,CS,CS 420,Parallel Progrmg: Sci & Engrg,4,1
+50785,CS,CS 421,Programming Languages & Compilers,4,1
+32042,CS,CS 424,Real-Time Systems,4,1
+71931,CS,CS 425,Distributed Systems,4,1
+18541,CS,CS 426,Compiler Construction,4,1
+25455,CS,CS 427,Software Engineering I,4,1
+50872,CS,CS 433,Computer System Organization,4,1
+35840,CS,CS 438,Communication Networks,4,1
+56881,CS,CS 440,Artificial Intelligence,3,1
+81336,CS,CS 445,Computational Photography,4,1
+73016,CS,CS 446,Machine Learning,4,1
+96181,CS,CS 447,Natural Language Processing,4,1
+66722,CS,CS 450,Numerical Analysis,4,1
+38145,CS,CS 461,Computer Security I,4,1
+77642,CS,CS 465,User Interface Design,3,1
+51724,CS,CS 466,Introduction to Bioinformatics,3,1
+61370,CS,CS 473,Algorithms,5,1
+50860,CS,CS 481,Advanced Topics in Stochastic Processes & Applications,5,1
+36812,CS,CS 483,Applied Parallel Programming,4,1
+46018,CS,CS 484,Parallel Programming,4,1
+77403,CS,CS 491,Seminar,4,1
+78537,CS,CS 493,"Senior Project II, ACP",4,1
+12446,CS,CS 494,Senior Project II,4,1
+83530,CS,CS 497,CS Team Project,4,1
+58219,CS,CS 498,Special Topics,4,1
+98303,CS,CS 499,Senior Thesis,5,1
+14569,CS,CS 510,Advanced Information Retrieval,5,1
+78398,CS,CS 513,Theory & Practice of Data Cleaning,5,1
+87106,CS,CS 523,Advanced Operating Systems,5,1
+81374,CS,CS 536,Fault-Tolerant Dig Syst Design,5,1
+80582,CS,CS 547,Deep Learning,5,1
+78119,CS,CS 554,Parallel Numerical Algorithms,5,1
+13939,CS,CS 563,Advanced Computer Security,5,1
+99332,CS,CS 571,Combinatorial Mathematics,5,1
+66248,CS,CS 576,Topics in Automated Deduction,5,1
+26010,CS,CS 581,Algorithmic Genomic Biology,5,1
+19469,CS,CS 584,Embedded System Verification,5,1
+17558,CS,CS 591,Advanced Seminar,5,1
+53216,CS,CS 598,Special Topics,5,1
+48938,CS,CS 599,Thesis Research,5,1
+50223,ECE,ECE 304,Photonic Devices,3,38
+45298,ECE,ECE 365,Data Science and Engineering,3,38
+23358,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,38
+45654,ECE,ECE 380,Biomedical Imaging,4,38
+24324,ECE,ECE 402,Electronic Music Synthesis,4,38
+10847,ECE,ECE 408,Applied Parallel Programming,4,38
+67370,ECE,ECE 411,Computer Organization & Design,4,38
+57730,ECE,ECE 414,Biomedical Instrumentation,4,38
+44589,ECE,ECE 417,Multimedia Signal Processing,4,38
+28009,ECE,ECE 420,Embedded DSP Laboratory,4,38
+23654,ECE,ECE 422,Computer Security I,4,38
+95462,ECE,ECE 428,Distributed Systems,4,38
+86491,ECE,ECE 437,Sensors and Instrumentation,4,38
+77089,ECE,ECE 438,Communication Networks,4,38
+84366,ECE,ECE 444,IC Device Theory & Fabrication,4,38
+87186,ECE,ECE 445,Senior Design Project Lab,4,38
+81231,ECE,ECE 446,Principles of Experimental Research in EE,4,38
+95446,ECE,ECE 447,Active Microwave Ckt Design,4,38
+67170,ECE,ECE 448,Artificial Intelligence,4,38
+70148,ECE,ECE 452,Electromagnetic Fields,4,38
+95947,ECE,ECE 453,Wireless Communication Systems,4,38
+43295,ECE,ECE 459,Communications Systems,4,38
+59111,ECE,ECE 463,Digital Communications Lab,4,38
+83013,ECE,ECE 464,Power Electronics,4,38
+35521,ECE,ECE 465,Optical Communications Systems,4,38
+82015,ECE,ECE 469,Power Electronics Laboratory,4,38
+84838,ECE,ECE 470,Introduction to Robotics,3,38
+39709,ECE,ECE 473,Fund of Engrg Acoustics,4,38
+54341,ECE,ECE 476,Power System Analysis,4,38
+20927,ECE,ECE 482,Digital IC Design,4,38
+37823,ECE,ECE 486,Control Systems,4,38
+98419,ECE,ECE 487,Intro Quantum Electr for EEs,3,38
+22698,ECE,ECE 488,Compound Semicond & Devices,4,38
+25444,ECE,ECE 491,Numerical Analysis,4,38
+18085,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,38
+89050,ECE,ECE 493,Advanced Engineering Math,5,38
+29363,ECE,ECE 496,Senior Research Project,5,38
+42530,ECE,ECE 515,Control System Theory & Design,5,38
+27746,ECE,ECE 517,Nonlinear & Adaptive Control,5,38
+87230,ECE,ECE 518,Adv Semiconductor Nanotech,5,38
+35185,ECE,ECE 524,Advanced Computer Security,5,38
+77886,ECE,ECE 530,Large-Scale System Analysis,5,38
+96474,ECE,ECE 534,Random Processes,5,38
+33736,ECE,ECE 535,Theory of Semicond & Devices,5,38
+82898,ECE,ECE 540,Computational Electromagnetics,5,38
+33263,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,38
+65014,ECE,ECE 544,Topics in Signal Processing,5,38
+62067,ECE,ECE 551,Digital Signal Processing II,5,38
+34121,ECE,ECE 562,Advanced Digital Communication,5,38
+50774,ECE,ECE 563,Information Theory,5,38
+37761,ECE,ECE 564,Modern Light Microscopy,5,38
+99581,ECE,ECE 566,Computational Inference and Learning,5,38
+14828,ECE,ECE 574,Nanophotonics,5,38
+27471,ECE,ECE 584,Embedded System Verification,5,38
+39802,ECE,ECE 304,Photonic Devices,3,37
+86484,ECE,ECE 365,Data Science and Engineering,3,37
+64259,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,37
+27936,ECE,ECE 380,Biomedical Imaging,4,37
+62330,ECE,ECE 402,Electronic Music Synthesis,4,37
+27605,ECE,ECE 408,Applied Parallel Programming,4,37
+61074,ECE,ECE 411,Computer Organization & Design,4,37
+99306,ECE,ECE 414,Biomedical Instrumentation,4,37
+61020,ECE,ECE 417,Multimedia Signal Processing,4,37
+78034,ECE,ECE 420,Embedded DSP Laboratory,4,37
+32135,ECE,ECE 422,Computer Security I,4,37
+85594,ECE,ECE 428,Distributed Systems,4,37
+73331,ECE,ECE 437,Sensors and Instrumentation,4,37
+22101,ECE,ECE 438,Communication Networks,4,37
+19595,ECE,ECE 444,IC Device Theory & Fabrication,4,37
+23022,ECE,ECE 445,Senior Design Project Lab,4,37
+15617,ECE,ECE 446,Principles of Experimental Research in EE,4,37
+45884,ECE,ECE 447,Active Microwave Ckt Design,4,37
+73767,ECE,ECE 448,Artificial Intelligence,4,37
+14679,ECE,ECE 452,Electromagnetic Fields,4,37
+97273,ECE,ECE 453,Wireless Communication Systems,4,37
+45191,ECE,ECE 459,Communications Systems,4,37
+96721,ECE,ECE 463,Digital Communications Lab,4,37
+54719,ECE,ECE 464,Power Electronics,4,37
+90677,ECE,ECE 465,Optical Communications Systems,4,37
+66613,ECE,ECE 469,Power Electronics Laboratory,4,37
+88720,ECE,ECE 470,Introduction to Robotics,3,37
+25001,ECE,ECE 473,Fund of Engrg Acoustics,4,37
+73278,ECE,ECE 476,Power System Analysis,4,37
+44345,ECE,ECE 482,Digital IC Design,4,37
+39046,ECE,ECE 486,Control Systems,4,37
+54186,ECE,ECE 487,Intro Quantum Electr for EEs,3,37
+36925,ECE,ECE 488,Compound Semicond & Devices,4,37
+74467,ECE,ECE 491,Numerical Analysis,4,37
+87849,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,37
+71704,ECE,ECE 493,Advanced Engineering Math,5,37
+89251,ECE,ECE 496,Senior Research Project,5,37
+69952,ECE,ECE 515,Control System Theory & Design,5,37
+81323,ECE,ECE 517,Nonlinear & Adaptive Control,5,37
+94286,ECE,ECE 518,Adv Semiconductor Nanotech,5,37
+53178,ECE,ECE 524,Advanced Computer Security,5,37
+77654,ECE,ECE 530,Large-Scale System Analysis,5,37
+66191,ECE,ECE 534,Random Processes,5,37
+33240,ECE,ECE 535,Theory of Semicond & Devices,5,37
+53419,ECE,ECE 540,Computational Electromagnetics,5,37
+11232,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,37
+50121,ECE,ECE 544,Topics in Signal Processing,5,37
+37474,ECE,ECE 551,Digital Signal Processing II,5,37
+63422,ECE,ECE 562,Advanced Digital Communication,5,37
+15491,ECE,ECE 563,Information Theory,5,37
+87682,ECE,ECE 564,Modern Light Microscopy,5,37
+26724,ECE,ECE 566,Computational Inference and Learning,5,37
+13818,ECE,ECE 574,Nanophotonics,5,37
+98393,ECE,ECE 584,Embedded System Verification,5,37
+18287,ECE,ECE 304,Photonic Devices,3,34
+62909,ECE,ECE 365,Data Science and Engineering,3,34
+33950,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,34
+85281,ECE,ECE 380,Biomedical Imaging,4,34
+70137,ECE,ECE 402,Electronic Music Synthesis,4,34
+51662,ECE,ECE 408,Applied Parallel Programming,4,34
+59551,ECE,ECE 411,Computer Organization & Design,4,34
+94645,ECE,ECE 414,Biomedical Instrumentation,4,34
+28815,ECE,ECE 417,Multimedia Signal Processing,4,34
+90612,ECE,ECE 420,Embedded DSP Laboratory,4,34
+43228,ECE,ECE 422,Computer Security I,4,34
+27205,ECE,ECE 428,Distributed Systems,4,34
+22223,ECE,ECE 437,Sensors and Instrumentation,4,34
+32217,ECE,ECE 438,Communication Networks,4,34
+38174,ECE,ECE 444,IC Device Theory & Fabrication,4,34
+44011,ECE,ECE 445,Senior Design Project Lab,4,34
+84572,ECE,ECE 446,Principles of Experimental Research in EE,4,34
+10580,ECE,ECE 447,Active Microwave Ckt Design,4,34
+54912,ECE,ECE 448,Artificial Intelligence,4,34
+15363,ECE,ECE 452,Electromagnetic Fields,4,34
+20844,ECE,ECE 453,Wireless Communication Systems,4,34
+80683,ECE,ECE 459,Communications Systems,4,34
+77161,ECE,ECE 463,Digital Communications Lab,4,34
+27631,ECE,ECE 464,Power Electronics,4,34
+49792,ECE,ECE 465,Optical Communications Systems,4,34
+65034,ECE,ECE 469,Power Electronics Laboratory,4,34
+59995,ECE,ECE 470,Introduction to Robotics,3,34
+59862,ECE,ECE 473,Fund of Engrg Acoustics,4,34
+88032,ECE,ECE 476,Power System Analysis,4,34
+24130,ECE,ECE 482,Digital IC Design,4,34
+88790,ECE,ECE 486,Control Systems,4,34
+53276,ECE,ECE 487,Intro Quantum Electr for EEs,3,34
+51586,ECE,ECE 488,Compound Semicond & Devices,4,34
+74693,ECE,ECE 491,Numerical Analysis,4,34
+13572,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,34
+24964,ECE,ECE 493,Advanced Engineering Math,5,34
+40263,ECE,ECE 496,Senior Research Project,5,34
+28408,ECE,ECE 515,Control System Theory & Design,5,34
+91375,ECE,ECE 517,Nonlinear & Adaptive Control,5,34
+67612,ECE,ECE 518,Adv Semiconductor Nanotech,5,34
+88436,ECE,ECE 524,Advanced Computer Security,5,34
+84436,ECE,ECE 530,Large-Scale System Analysis,5,34
+17464,ECE,ECE 534,Random Processes,5,34
+17750,ECE,ECE 535,Theory of Semicond & Devices,5,34
+63275,ECE,ECE 540,Computational Electromagnetics,5,34
+84440,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,34
+35048,ECE,ECE 544,Topics in Signal Processing,5,34
+31711,ECE,ECE 551,Digital Signal Processing II,5,34
+31467,ECE,ECE 562,Advanced Digital Communication,5,34
+88103,ECE,ECE 563,Information Theory,5,34
+38929,ECE,ECE 564,Modern Light Microscopy,5,34
+60661,ECE,ECE 566,Computational Inference and Learning,5,34
+37586,ECE,ECE 574,Nanophotonics,5,34
+61152,ECE,ECE 584,Embedded System Verification,5,34
+69996,ECE,ECE 304,Photonic Devices,3,34
+14114,ECE,ECE 365,Data Science and Engineering,3,34
+72391,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,34
+54076,ECE,ECE 380,Biomedical Imaging,4,34
+34599,ECE,ECE 402,Electronic Music Synthesis,4,34
+88211,ECE,ECE 408,Applied Parallel Programming,4,34
+59673,ECE,ECE 411,Computer Organization & Design,4,34
+32857,ECE,ECE 414,Biomedical Instrumentation,4,34
+78622,ECE,ECE 417,Multimedia Signal Processing,4,34
+71168,ECE,ECE 420,Embedded DSP Laboratory,4,34
+13886,ECE,ECE 422,Computer Security I,4,34
+24532,ECE,ECE 428,Distributed Systems,4,34
+99085,ECE,ECE 437,Sensors and Instrumentation,4,34
+50349,ECE,ECE 438,Communication Networks,4,34
+14171,ECE,ECE 444,IC Device Theory & Fabrication,4,34
+94607,ECE,ECE 445,Senior Design Project Lab,4,34
+93134,ECE,ECE 446,Principles of Experimental Research in EE,4,34
+35100,ECE,ECE 447,Active Microwave Ckt Design,4,34
+79636,ECE,ECE 448,Artificial Intelligence,4,34
+80500,ECE,ECE 452,Electromagnetic Fields,4,34
+64673,ECE,ECE 453,Wireless Communication Systems,4,34
+68478,ECE,ECE 459,Communications Systems,4,34
+69002,ECE,ECE 463,Digital Communications Lab,4,34
+90105,ECE,ECE 464,Power Electronics,4,34
+14007,ECE,ECE 465,Optical Communications Systems,4,34
+24694,ECE,ECE 469,Power Electronics Laboratory,4,34
+86040,ECE,ECE 470,Introduction to Robotics,3,34
+15007,ECE,ECE 473,Fund of Engrg Acoustics,4,34
+43733,ECE,ECE 476,Power System Analysis,4,34
+87634,ECE,ECE 482,Digital IC Design,4,34
+60133,ECE,ECE 486,Control Systems,4,34
+78582,ECE,ECE 487,Intro Quantum Electr for EEs,3,34
+14271,ECE,ECE 488,Compound Semicond & Devices,4,34
+94745,ECE,ECE 491,Numerical Analysis,4,34
+19052,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,34
+31293,ECE,ECE 493,Advanced Engineering Math,5,34
+46545,ECE,ECE 496,Senior Research Project,5,34
+83184,ECE,ECE 515,Control System Theory & Design,5,34
+44834,ECE,ECE 517,Nonlinear & Adaptive Control,5,34
+84273,ECE,ECE 518,Adv Semiconductor Nanotech,5,34
+30048,ECE,ECE 524,Advanced Computer Security,5,34
+55936,ECE,ECE 530,Large-Scale System Analysis,5,34
+52840,ECE,ECE 534,Random Processes,5,34
+75967,ECE,ECE 535,Theory of Semicond & Devices,5,34
+36186,ECE,ECE 540,Computational Electromagnetics,5,34
+61406,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,34
+27725,ECE,ECE 544,Topics in Signal Processing,5,34
+70776,ECE,ECE 551,Digital Signal Processing II,5,34
+81810,ECE,ECE 562,Advanced Digital Communication,5,34
+42209,ECE,ECE 563,Information Theory,5,34
+59255,ECE,ECE 564,Modern Light Microscopy,5,34
+36068,ECE,ECE 566,Computational Inference and Learning,5,34
+39157,ECE,ECE 574,Nanophotonics,5,34
+32027,ECE,ECE 584,Embedded System Verification,5,34
+56942,ECE,ECE 304,Photonic Devices,3,33
+23455,ECE,ECE 365,Data Science and Engineering,3,33
+99337,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,33
+80114,ECE,ECE 380,Biomedical Imaging,4,33
+94163,ECE,ECE 402,Electronic Music Synthesis,4,33
+37059,ECE,ECE 408,Applied Parallel Programming,4,33
+24617,ECE,ECE 411,Computer Organization & Design,4,33
+73718,ECE,ECE 414,Biomedical Instrumentation,4,33
+55564,ECE,ECE 417,Multimedia Signal Processing,4,33
+73259,ECE,ECE 420,Embedded DSP Laboratory,4,33
+43723,ECE,ECE 422,Computer Security I,4,33
+94737,ECE,ECE 428,Distributed Systems,4,33
+40492,ECE,ECE 437,Sensors and Instrumentation,4,33
+44251,ECE,ECE 438,Communication Networks,4,33
+98770,ECE,ECE 444,IC Device Theory & Fabrication,4,33
+16806,ECE,ECE 445,Senior Design Project Lab,4,33
+73528,ECE,ECE 446,Principles of Experimental Research in EE,4,33
+30118,ECE,ECE 447,Active Microwave Ckt Design,4,33
+37428,ECE,ECE 448,Artificial Intelligence,4,33
+96614,ECE,ECE 452,Electromagnetic Fields,4,33
+42539,ECE,ECE 453,Wireless Communication Systems,4,33
+32097,ECE,ECE 459,Communications Systems,4,33
+82796,ECE,ECE 463,Digital Communications Lab,4,33
+19594,ECE,ECE 464,Power Electronics,4,33
+86911,ECE,ECE 465,Optical Communications Systems,4,33
+89798,ECE,ECE 469,Power Electronics Laboratory,4,33
+18387,ECE,ECE 470,Introduction to Robotics,3,33
+97291,ECE,ECE 473,Fund of Engrg Acoustics,4,33
+47111,ECE,ECE 476,Power System Analysis,4,33
+97542,ECE,ECE 482,Digital IC Design,4,33
+46544,ECE,ECE 486,Control Systems,4,33
+24745,ECE,ECE 487,Intro Quantum Electr for EEs,3,33
+51617,ECE,ECE 488,Compound Semicond & Devices,4,33
+24740,ECE,ECE 491,Numerical Analysis,4,33
+50682,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,33
+56603,ECE,ECE 493,Advanced Engineering Math,5,33
+90239,ECE,ECE 496,Senior Research Project,5,33
+81582,ECE,ECE 515,Control System Theory & Design,5,33
+37851,ECE,ECE 517,Nonlinear & Adaptive Control,5,33
+44840,ECE,ECE 518,Adv Semiconductor Nanotech,5,33
+85427,ECE,ECE 524,Advanced Computer Security,5,33
+29432,ECE,ECE 530,Large-Scale System Analysis,5,33
+69109,ECE,ECE 534,Random Processes,5,33
+20305,ECE,ECE 535,Theory of Semicond & Devices,5,33
+87983,ECE,ECE 540,Computational Electromagnetics,5,33
+15848,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,33
+14941,ECE,ECE 544,Topics in Signal Processing,5,33
+26440,ECE,ECE 551,Digital Signal Processing II,5,33
+25887,ECE,ECE 562,Advanced Digital Communication,5,33
+45485,ECE,ECE 563,Information Theory,5,33
+78026,ECE,ECE 564,Modern Light Microscopy,5,33
+84375,ECE,ECE 566,Computational Inference and Learning,5,33
+90826,ECE,ECE 574,Nanophotonics,5,33
+76713,ECE,ECE 584,Embedded System Verification,5,33
+14567,ECE,ECE 304,Photonic Devices,3,29
+77459,ECE,ECE 365,Data Science and Engineering,3,29
+17545,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,29
+58816,ECE,ECE 380,Biomedical Imaging,4,29
+50092,ECE,ECE 402,Electronic Music Synthesis,4,29
+89758,ECE,ECE 408,Applied Parallel Programming,4,29
+68460,ECE,ECE 411,Computer Organization & Design,4,29
+18704,ECE,ECE 414,Biomedical Instrumentation,4,29
+29603,ECE,ECE 417,Multimedia Signal Processing,4,29
+61918,ECE,ECE 420,Embedded DSP Laboratory,4,29
+50002,ECE,ECE 422,Computer Security I,4,29
+19053,ECE,ECE 428,Distributed Systems,4,29
+75213,ECE,ECE 437,Sensors and Instrumentation,4,29
+12247,ECE,ECE 438,Communication Networks,4,29
+88674,ECE,ECE 444,IC Device Theory & Fabrication,4,29
+34185,ECE,ECE 445,Senior Design Project Lab,4,29
+44833,ECE,ECE 446,Principles of Experimental Research in EE,4,29
+24197,ECE,ECE 447,Active Microwave Ckt Design,4,29
+66143,ECE,ECE 448,Artificial Intelligence,4,29
+73401,ECE,ECE 452,Electromagnetic Fields,4,29
+85609,ECE,ECE 453,Wireless Communication Systems,4,29
+71774,ECE,ECE 459,Communications Systems,4,29
+26938,ECE,ECE 463,Digital Communications Lab,4,29
+61445,ECE,ECE 464,Power Electronics,4,29
+65532,ECE,ECE 465,Optical Communications Systems,4,29
+28092,ECE,ECE 469,Power Electronics Laboratory,4,29
+22243,ECE,ECE 470,Introduction to Robotics,3,29
+33305,ECE,ECE 473,Fund of Engrg Acoustics,4,29
+42027,ECE,ECE 476,Power System Analysis,4,29
+63986,ECE,ECE 482,Digital IC Design,4,29
+18905,ECE,ECE 486,Control Systems,4,29
+38361,ECE,ECE 487,Intro Quantum Electr for EEs,3,29
+27193,ECE,ECE 488,Compound Semicond & Devices,4,29
+49076,ECE,ECE 491,Numerical Analysis,4,29
+88658,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,29
+67416,ECE,ECE 493,Advanced Engineering Math,5,29
+26672,ECE,ECE 496,Senior Research Project,5,29
+24742,ECE,ECE 515,Control System Theory & Design,5,29
+70103,ECE,ECE 517,Nonlinear & Adaptive Control,5,29
+20700,ECE,ECE 518,Adv Semiconductor Nanotech,5,29
+34099,ECE,ECE 524,Advanced Computer Security,5,29
+22656,ECE,ECE 530,Large-Scale System Analysis,5,29
+54835,ECE,ECE 534,Random Processes,5,29
+56589,ECE,ECE 535,Theory of Semicond & Devices,5,29
+70516,ECE,ECE 540,Computational Electromagnetics,5,29
+56120,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,29
+48084,ECE,ECE 544,Topics in Signal Processing,5,29
+13770,ECE,ECE 551,Digital Signal Processing II,5,29
+13895,ECE,ECE 562,Advanced Digital Communication,5,29
+79998,ECE,ECE 563,Information Theory,5,29
+41269,ECE,ECE 564,Modern Light Microscopy,5,29
+97872,ECE,ECE 566,Computational Inference and Learning,5,29
+31306,ECE,ECE 574,Nanophotonics,5,29
+59199,ECE,ECE 584,Embedded System Verification,5,29
+86164,ECE,ECE 304,Photonic Devices,3,30
+83991,ECE,ECE 365,Data Science and Engineering,3,30
+61770,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,30
+30322,ECE,ECE 380,Biomedical Imaging,4,30
+21145,ECE,ECE 402,Electronic Music Synthesis,4,30
+13585,ECE,ECE 408,Applied Parallel Programming,4,30
+17637,ECE,ECE 411,Computer Organization & Design,4,30
+13925,ECE,ECE 414,Biomedical Instrumentation,4,30
+52782,ECE,ECE 417,Multimedia Signal Processing,4,30
+69038,ECE,ECE 420,Embedded DSP Laboratory,4,30
+96616,ECE,ECE 422,Computer Security I,4,30
+56513,ECE,ECE 428,Distributed Systems,4,30
+56276,ECE,ECE 437,Sensors and Instrumentation,4,30
+75296,ECE,ECE 438,Communication Networks,4,30
+71879,ECE,ECE 444,IC Device Theory & Fabrication,4,30
+32339,ECE,ECE 445,Senior Design Project Lab,4,30
+14899,ECE,ECE 446,Principles of Experimental Research in EE,4,30
+79328,ECE,ECE 447,Active Microwave Ckt Design,4,30
+18242,ECE,ECE 448,Artificial Intelligence,4,30
+25766,ECE,ECE 452,Electromagnetic Fields,4,30
+48251,ECE,ECE 453,Wireless Communication Systems,4,30
+84771,ECE,ECE 459,Communications Systems,4,30
+79227,ECE,ECE 463,Digital Communications Lab,4,30
+91909,ECE,ECE 464,Power Electronics,4,30
+13794,ECE,ECE 465,Optical Communications Systems,4,30
+64133,ECE,ECE 469,Power Electronics Laboratory,4,30
+42172,ECE,ECE 470,Introduction to Robotics,3,30
+14911,ECE,ECE 473,Fund of Engrg Acoustics,4,30
+89351,ECE,ECE 476,Power System Analysis,4,30
+22596,ECE,ECE 482,Digital IC Design,4,30
+26228,ECE,ECE 486,Control Systems,4,30
+14743,ECE,ECE 487,Intro Quantum Electr for EEs,3,30
+29492,ECE,ECE 488,Compound Semicond & Devices,4,30
+40720,ECE,ECE 491,Numerical Analysis,4,30
+71620,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,30
+15510,ECE,ECE 493,Advanced Engineering Math,5,30
+22398,ECE,ECE 496,Senior Research Project,5,30
+33213,ECE,ECE 515,Control System Theory & Design,5,30
+43266,ECE,ECE 517,Nonlinear & Adaptive Control,5,30
+10930,ECE,ECE 518,Adv Semiconductor Nanotech,5,30
+68407,ECE,ECE 524,Advanced Computer Security,5,30
+72203,ECE,ECE 530,Large-Scale System Analysis,5,30
+11323,ECE,ECE 534,Random Processes,5,30
+46012,ECE,ECE 535,Theory of Semicond & Devices,5,30
+96845,ECE,ECE 540,Computational Electromagnetics,5,30
+43506,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,30
+93705,ECE,ECE 544,Topics in Signal Processing,5,30
+13126,ECE,ECE 551,Digital Signal Processing II,5,30
+61741,ECE,ECE 562,Advanced Digital Communication,5,30
+16389,ECE,ECE 563,Information Theory,5,30
+60537,ECE,ECE 564,Modern Light Microscopy,5,30
+53633,ECE,ECE 566,Computational Inference and Learning,5,30
+75182,ECE,ECE 574,Nanophotonics,5,30
+52928,ECE,ECE 584,Embedded System Verification,5,30
+59729,ECE,ECE 304,Photonic Devices,3,26
+39541,ECE,ECE 365,Data Science and Engineering,3,26
+65941,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,26
+85283,ECE,ECE 380,Biomedical Imaging,4,26
+34142,ECE,ECE 402,Electronic Music Synthesis,4,26
+42256,ECE,ECE 408,Applied Parallel Programming,4,26
+79165,ECE,ECE 411,Computer Organization & Design,4,26
+80815,ECE,ECE 414,Biomedical Instrumentation,4,26
+13815,ECE,ECE 417,Multimedia Signal Processing,4,26
+30354,ECE,ECE 420,Embedded DSP Laboratory,4,26
+83353,ECE,ECE 422,Computer Security I,4,26
+89181,ECE,ECE 428,Distributed Systems,4,26
+35984,ECE,ECE 437,Sensors and Instrumentation,4,26
+41177,ECE,ECE 438,Communication Networks,4,26
+95997,ECE,ECE 444,IC Device Theory & Fabrication,4,26
+23132,ECE,ECE 445,Senior Design Project Lab,4,26
+45257,ECE,ECE 446,Principles of Experimental Research in EE,4,26
+64628,ECE,ECE 447,Active Microwave Ckt Design,4,26
+59041,ECE,ECE 448,Artificial Intelligence,4,26
+32925,ECE,ECE 452,Electromagnetic Fields,4,26
+91584,ECE,ECE 453,Wireless Communication Systems,4,26
+77166,ECE,ECE 459,Communications Systems,4,26
+90711,ECE,ECE 463,Digital Communications Lab,4,26
+18595,ECE,ECE 464,Power Electronics,4,26
+91074,ECE,ECE 465,Optical Communications Systems,4,26
+59198,ECE,ECE 469,Power Electronics Laboratory,4,26
+17740,ECE,ECE 470,Introduction to Robotics,3,26
+43996,ECE,ECE 473,Fund of Engrg Acoustics,4,26
+62325,ECE,ECE 476,Power System Analysis,4,26
+48796,ECE,ECE 482,Digital IC Design,4,26
+71310,ECE,ECE 486,Control Systems,4,26
+80885,ECE,ECE 487,Intro Quantum Electr for EEs,3,26
+14640,ECE,ECE 488,Compound Semicond & Devices,4,26
+30165,ECE,ECE 491,Numerical Analysis,4,26
+88460,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,26
+90380,ECE,ECE 493,Advanced Engineering Math,5,26
+24450,ECE,ECE 496,Senior Research Project,5,26
+32671,ECE,ECE 515,Control System Theory & Design,5,26
+68075,ECE,ECE 517,Nonlinear & Adaptive Control,5,26
+67585,ECE,ECE 518,Adv Semiconductor Nanotech,5,26
+76800,ECE,ECE 524,Advanced Computer Security,5,26
+76673,ECE,ECE 530,Large-Scale System Analysis,5,26
+19940,ECE,ECE 534,Random Processes,5,26
+49269,ECE,ECE 535,Theory of Semicond & Devices,5,26
+41864,ECE,ECE 540,Computational Electromagnetics,5,26
+28336,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,26
+42039,ECE,ECE 544,Topics in Signal Processing,5,26
+40329,ECE,ECE 551,Digital Signal Processing II,5,26
+97154,ECE,ECE 562,Advanced Digital Communication,5,26
+55251,ECE,ECE 563,Information Theory,5,26
+30041,ECE,ECE 564,Modern Light Microscopy,5,26
+25163,ECE,ECE 566,Computational Inference and Learning,5,26
+78004,ECE,ECE 574,Nanophotonics,5,26
+74563,ECE,ECE 584,Embedded System Verification,5,26
+12676,ECE,ECE 304,Photonic Devices,3,25
+58568,ECE,ECE 365,Data Science and Engineering,3,25
+83109,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,25
+29926,ECE,ECE 380,Biomedical Imaging,4,25
+75863,ECE,ECE 402,Electronic Music Synthesis,4,25
+84365,ECE,ECE 408,Applied Parallel Programming,4,25
+95429,ECE,ECE 411,Computer Organization & Design,4,25
+72548,ECE,ECE 414,Biomedical Instrumentation,4,25
+12769,ECE,ECE 417,Multimedia Signal Processing,4,25
+59631,ECE,ECE 420,Embedded DSP Laboratory,4,25
+13607,ECE,ECE 422,Computer Security I,4,25
+26786,ECE,ECE 428,Distributed Systems,4,25
+53965,ECE,ECE 437,Sensors and Instrumentation,4,25
+29928,ECE,ECE 438,Communication Networks,4,25
+42206,ECE,ECE 444,IC Device Theory & Fabrication,4,25
+63896,ECE,ECE 445,Senior Design Project Lab,4,25
+95814,ECE,ECE 446,Principles of Experimental Research in EE,4,25
+73188,ECE,ECE 447,Active Microwave Ckt Design,4,25
+15520,ECE,ECE 448,Artificial Intelligence,4,25
+21591,ECE,ECE 452,Electromagnetic Fields,4,25
+73009,ECE,ECE 453,Wireless Communication Systems,4,25
+30891,ECE,ECE 459,Communications Systems,4,25
+38942,ECE,ECE 463,Digital Communications Lab,4,25
+52516,ECE,ECE 464,Power Electronics,4,25
+22580,ECE,ECE 465,Optical Communications Systems,4,25
+56594,ECE,ECE 469,Power Electronics Laboratory,4,25
+12664,ECE,ECE 470,Introduction to Robotics,3,25
+65488,ECE,ECE 473,Fund of Engrg Acoustics,4,25
+82915,ECE,ECE 476,Power System Analysis,4,25
+84561,ECE,ECE 482,Digital IC Design,4,25
+22902,ECE,ECE 486,Control Systems,4,25
+58734,ECE,ECE 487,Intro Quantum Electr for EEs,3,25
+70444,ECE,ECE 488,Compound Semicond & Devices,4,25
+73985,ECE,ECE 491,Numerical Analysis,4,25
+52177,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,25
+12004,ECE,ECE 493,Advanced Engineering Math,5,25
+50160,ECE,ECE 496,Senior Research Project,5,25
+35350,ECE,ECE 515,Control System Theory & Design,5,25
+88443,ECE,ECE 517,Nonlinear & Adaptive Control,5,25
+49498,ECE,ECE 518,Adv Semiconductor Nanotech,5,25
+13418,ECE,ECE 524,Advanced Computer Security,5,25
+29098,ECE,ECE 530,Large-Scale System Analysis,5,25
+57471,ECE,ECE 534,Random Processes,5,25
+11299,ECE,ECE 535,Theory of Semicond & Devices,5,25
+76291,ECE,ECE 540,Computational Electromagnetics,5,25
+80915,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,25
+47118,ECE,ECE 544,Topics in Signal Processing,5,25
+79577,ECE,ECE 551,Digital Signal Processing II,5,25
+70653,ECE,ECE 562,Advanced Digital Communication,5,25
+59877,ECE,ECE 563,Information Theory,5,25
+13357,ECE,ECE 564,Modern Light Microscopy,5,25
+64903,ECE,ECE 566,Computational Inference and Learning,5,25
+84662,ECE,ECE 574,Nanophotonics,5,25
+98949,ECE,ECE 584,Embedded System Verification,5,25
+21851,ECE,ECE 304,Photonic Devices,3,22
+89068,ECE,ECE 365,Data Science and Engineering,3,22
+66531,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,22
+85710,ECE,ECE 380,Biomedical Imaging,4,22
+23966,ECE,ECE 402,Electronic Music Synthesis,4,22
+49395,ECE,ECE 408,Applied Parallel Programming,4,22
+36498,ECE,ECE 411,Computer Organization & Design,4,22
+86389,ECE,ECE 414,Biomedical Instrumentation,4,22
+15433,ECE,ECE 417,Multimedia Signal Processing,4,22
+64473,ECE,ECE 420,Embedded DSP Laboratory,4,22
+23527,ECE,ECE 422,Computer Security I,4,22
+81874,ECE,ECE 428,Distributed Systems,4,22
+34642,ECE,ECE 437,Sensors and Instrumentation,4,22
+95110,ECE,ECE 438,Communication Networks,4,22
+68266,ECE,ECE 444,IC Device Theory & Fabrication,4,22
+80369,ECE,ECE 445,Senior Design Project Lab,4,22
+71730,ECE,ECE 446,Principles of Experimental Research in EE,4,22
+71280,ECE,ECE 447,Active Microwave Ckt Design,4,22
+29933,ECE,ECE 448,Artificial Intelligence,4,22
+26452,ECE,ECE 452,Electromagnetic Fields,4,22
+82797,ECE,ECE 453,Wireless Communication Systems,4,22
+99162,ECE,ECE 459,Communications Systems,4,22
+75660,ECE,ECE 463,Digital Communications Lab,4,22
+57150,ECE,ECE 464,Power Electronics,4,22
+31383,ECE,ECE 465,Optical Communications Systems,4,22
+45368,ECE,ECE 469,Power Electronics Laboratory,4,22
+75247,ECE,ECE 470,Introduction to Robotics,3,22
+11249,ECE,ECE 473,Fund of Engrg Acoustics,4,22
+62006,ECE,ECE 476,Power System Analysis,4,22
+82045,ECE,ECE 482,Digital IC Design,4,22
+56332,ECE,ECE 486,Control Systems,4,22
+20019,ECE,ECE 487,Intro Quantum Electr for EEs,3,22
+21841,ECE,ECE 488,Compound Semicond & Devices,4,22
+13276,ECE,ECE 491,Numerical Analysis,4,22
+23452,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,22
+76512,ECE,ECE 493,Advanced Engineering Math,5,22
+24728,ECE,ECE 496,Senior Research Project,5,22
+10775,ECE,ECE 515,Control System Theory & Design,5,22
+60768,ECE,ECE 517,Nonlinear & Adaptive Control,5,22
+50814,ECE,ECE 518,Adv Semiconductor Nanotech,5,22
+33519,ECE,ECE 524,Advanced Computer Security,5,22
+16556,ECE,ECE 530,Large-Scale System Analysis,5,22
+19370,ECE,ECE 534,Random Processes,5,22
+86843,ECE,ECE 535,Theory of Semicond & Devices,5,22
+36233,ECE,ECE 540,Computational Electromagnetics,5,22
+17188,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,22
+23121,ECE,ECE 544,Topics in Signal Processing,5,22
+90228,ECE,ECE 551,Digital Signal Processing II,5,22
+78556,ECE,ECE 562,Advanced Digital Communication,5,22
+39595,ECE,ECE 563,Information Theory,5,22
+69458,ECE,ECE 564,Modern Light Microscopy,5,22
+19947,ECE,ECE 566,Computational Inference and Learning,5,22
+72337,ECE,ECE 574,Nanophotonics,5,22
+18422,ECE,ECE 584,Embedded System Verification,5,22
+30471,ECE,ECE 304,Photonic Devices,3,22
+38606,ECE,ECE 365,Data Science and Engineering,3,22
+94726,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,22
+57102,ECE,ECE 380,Biomedical Imaging,4,22
+91093,ECE,ECE 402,Electronic Music Synthesis,4,22
+40993,ECE,ECE 408,Applied Parallel Programming,4,22
+19221,ECE,ECE 411,Computer Organization & Design,4,22
+92383,ECE,ECE 414,Biomedical Instrumentation,4,22
+18721,ECE,ECE 417,Multimedia Signal Processing,4,22
+10971,ECE,ECE 420,Embedded DSP Laboratory,4,22
+79819,ECE,ECE 422,Computer Security I,4,22
+97412,ECE,ECE 428,Distributed Systems,4,22
+94928,ECE,ECE 437,Sensors and Instrumentation,4,22
+61031,ECE,ECE 438,Communication Networks,4,22
+68160,ECE,ECE 444,IC Device Theory & Fabrication,4,22
+33888,ECE,ECE 445,Senior Design Project Lab,4,22
+42299,ECE,ECE 446,Principles of Experimental Research in EE,4,22
+34092,ECE,ECE 447,Active Microwave Ckt Design,4,22
+25107,ECE,ECE 448,Artificial Intelligence,4,22
+97796,ECE,ECE 452,Electromagnetic Fields,4,22
+45863,ECE,ECE 453,Wireless Communication Systems,4,22
+48538,ECE,ECE 459,Communications Systems,4,22
+56401,ECE,ECE 463,Digital Communications Lab,4,22
+14471,ECE,ECE 464,Power Electronics,4,22
+58058,ECE,ECE 465,Optical Communications Systems,4,22
+12901,ECE,ECE 469,Power Electronics Laboratory,4,22
+49552,ECE,ECE 470,Introduction to Robotics,3,22
+36659,ECE,ECE 473,Fund of Engrg Acoustics,4,22
+37457,ECE,ECE 476,Power System Analysis,4,22
+45950,ECE,ECE 482,Digital IC Design,4,22
+24255,ECE,ECE 486,Control Systems,4,22
+40456,ECE,ECE 487,Intro Quantum Electr for EEs,3,22
+27686,ECE,ECE 488,Compound Semicond & Devices,4,22
+76825,ECE,ECE 491,Numerical Analysis,4,22
+51727,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,22
+40903,ECE,ECE 493,Advanced Engineering Math,5,22
+12198,ECE,ECE 496,Senior Research Project,5,22
+32588,ECE,ECE 515,Control System Theory & Design,5,22
+64143,ECE,ECE 517,Nonlinear & Adaptive Control,5,22
+38668,ECE,ECE 518,Adv Semiconductor Nanotech,5,22
+13628,ECE,ECE 524,Advanced Computer Security,5,22
+79279,ECE,ECE 530,Large-Scale System Analysis,5,22
+28586,ECE,ECE 534,Random Processes,5,22
+45879,ECE,ECE 535,Theory of Semicond & Devices,5,22
+36692,ECE,ECE 540,Computational Electromagnetics,5,22
+93245,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,22
+34908,ECE,ECE 544,Topics in Signal Processing,5,22
+62938,ECE,ECE 551,Digital Signal Processing II,5,22
+40950,ECE,ECE 562,Advanced Digital Communication,5,22
+83208,ECE,ECE 563,Information Theory,5,22
+33854,ECE,ECE 564,Modern Light Microscopy,5,22
+89135,ECE,ECE 566,Computational Inference and Learning,5,22
+86187,ECE,ECE 574,Nanophotonics,5,22
+83218,ECE,ECE 584,Embedded System Verification,5,22
+33510,ECE,ECE 304,Photonic Devices,3,21
+73855,ECE,ECE 365,Data Science and Engineering,3,21
+13963,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,21
+74053,ECE,ECE 380,Biomedical Imaging,4,21
+88388,ECE,ECE 402,Electronic Music Synthesis,4,21
+88811,ECE,ECE 408,Applied Parallel Programming,4,21
+20480,ECE,ECE 411,Computer Organization & Design,4,21
+73998,ECE,ECE 414,Biomedical Instrumentation,4,21
+26118,ECE,ECE 417,Multimedia Signal Processing,4,21
+93144,ECE,ECE 420,Embedded DSP Laboratory,4,21
+82832,ECE,ECE 422,Computer Security I,4,21
+27830,ECE,ECE 428,Distributed Systems,4,21
+49627,ECE,ECE 437,Sensors and Instrumentation,4,21
+79332,ECE,ECE 438,Communication Networks,4,21
+74080,ECE,ECE 444,IC Device Theory & Fabrication,4,21
+25251,ECE,ECE 445,Senior Design Project Lab,4,21
+17589,ECE,ECE 446,Principles of Experimental Research in EE,4,21
+45889,ECE,ECE 447,Active Microwave Ckt Design,4,21
+96909,ECE,ECE 448,Artificial Intelligence,4,21
+97439,ECE,ECE 452,Electromagnetic Fields,4,21
+41482,ECE,ECE 453,Wireless Communication Systems,4,21
+14165,ECE,ECE 459,Communications Systems,4,21
+71964,ECE,ECE 463,Digital Communications Lab,4,21
+50449,ECE,ECE 464,Power Electronics,4,21
+21869,ECE,ECE 465,Optical Communications Systems,4,21
+22782,ECE,ECE 469,Power Electronics Laboratory,4,21
+43083,ECE,ECE 470,Introduction to Robotics,3,21
+44435,ECE,ECE 473,Fund of Engrg Acoustics,4,21
+17970,ECE,ECE 476,Power System Analysis,4,21
+23371,ECE,ECE 482,Digital IC Design,4,21
+92055,ECE,ECE 486,Control Systems,4,21
+29372,ECE,ECE 487,Intro Quantum Electr for EEs,3,21
+43949,ECE,ECE 488,Compound Semicond & Devices,4,21
+97323,ECE,ECE 491,Numerical Analysis,4,21
+31485,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,21
+20190,ECE,ECE 493,Advanced Engineering Math,5,21
+29552,ECE,ECE 496,Senior Research Project,5,21
+86116,ECE,ECE 515,Control System Theory & Design,5,21
+33084,ECE,ECE 517,Nonlinear & Adaptive Control,5,21
+40746,ECE,ECE 518,Adv Semiconductor Nanotech,5,21
+63874,ECE,ECE 524,Advanced Computer Security,5,21
+54822,ECE,ECE 530,Large-Scale System Analysis,5,21
+72662,ECE,ECE 534,Random Processes,5,21
+62664,ECE,ECE 535,Theory of Semicond & Devices,5,21
+62553,ECE,ECE 540,Computational Electromagnetics,5,21
+57769,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,21
+73812,ECE,ECE 544,Topics in Signal Processing,5,21
+68809,ECE,ECE 551,Digital Signal Processing II,5,21
+95035,ECE,ECE 562,Advanced Digital Communication,5,21
+50526,ECE,ECE 563,Information Theory,5,21
+41863,ECE,ECE 564,Modern Light Microscopy,5,21
+53400,ECE,ECE 566,Computational Inference and Learning,5,21
+67679,ECE,ECE 574,Nanophotonics,5,21
+42139,ECE,ECE 584,Embedded System Verification,5,21
+93046,ECE,ECE 304,Photonic Devices,3,18
+74707,ECE,ECE 365,Data Science and Engineering,3,18
+20719,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,18
+61952,ECE,ECE 380,Biomedical Imaging,4,18
+59097,ECE,ECE 402,Electronic Music Synthesis,4,18
+19041,ECE,ECE 408,Applied Parallel Programming,4,18
+99743,ECE,ECE 411,Computer Organization & Design,4,18
+51547,ECE,ECE 414,Biomedical Instrumentation,4,18
+38156,ECE,ECE 417,Multimedia Signal Processing,4,18
+58126,ECE,ECE 420,Embedded DSP Laboratory,4,18
+89083,ECE,ECE 422,Computer Security I,4,18
+18895,ECE,ECE 428,Distributed Systems,4,18
+44935,ECE,ECE 437,Sensors and Instrumentation,4,18
+44650,ECE,ECE 438,Communication Networks,4,18
+95773,ECE,ECE 444,IC Device Theory & Fabrication,4,18
+58527,ECE,ECE 445,Senior Design Project Lab,4,18
+55566,ECE,ECE 446,Principles of Experimental Research in EE,4,18
+92885,ECE,ECE 447,Active Microwave Ckt Design,4,18
+44164,ECE,ECE 448,Artificial Intelligence,4,18
+81423,ECE,ECE 452,Electromagnetic Fields,4,18
+59172,ECE,ECE 453,Wireless Communication Systems,4,18
+28760,ECE,ECE 459,Communications Systems,4,18
+32108,ECE,ECE 463,Digital Communications Lab,4,18
+53584,ECE,ECE 464,Power Electronics,4,18
+88291,ECE,ECE 465,Optical Communications Systems,4,18
+35710,ECE,ECE 469,Power Electronics Laboratory,4,18
+23792,ECE,ECE 470,Introduction to Robotics,3,18
+86509,ECE,ECE 473,Fund of Engrg Acoustics,4,18
+36334,ECE,ECE 476,Power System Analysis,4,18
+98158,ECE,ECE 482,Digital IC Design,4,18
+34259,ECE,ECE 486,Control Systems,4,18
+75497,ECE,ECE 487,Intro Quantum Electr for EEs,3,18
+73957,ECE,ECE 488,Compound Semicond & Devices,4,18
+43727,ECE,ECE 491,Numerical Analysis,4,18
+20641,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,18
+23061,ECE,ECE 493,Advanced Engineering Math,5,18
+91455,ECE,ECE 496,Senior Research Project,5,18
+20788,ECE,ECE 515,Control System Theory & Design,5,18
+74034,ECE,ECE 517,Nonlinear & Adaptive Control,5,18
+86416,ECE,ECE 518,Adv Semiconductor Nanotech,5,18
+12015,ECE,ECE 524,Advanced Computer Security,5,18
+19635,ECE,ECE 530,Large-Scale System Analysis,5,18
+28574,ECE,ECE 534,Random Processes,5,18
+61794,ECE,ECE 535,Theory of Semicond & Devices,5,18
+14239,ECE,ECE 540,Computational Electromagnetics,5,18
+21757,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,18
+55827,ECE,ECE 544,Topics in Signal Processing,5,18
+48261,ECE,ECE 551,Digital Signal Processing II,5,18
+39420,ECE,ECE 562,Advanced Digital Communication,5,18
+81936,ECE,ECE 563,Information Theory,5,18
+95872,ECE,ECE 564,Modern Light Microscopy,5,18
+98369,ECE,ECE 566,Computational Inference and Learning,5,18
+41776,ECE,ECE 574,Nanophotonics,5,18
+59567,ECE,ECE 584,Embedded System Verification,5,18
+81418,ECE,ECE 304,Photonic Devices,3,17
+39177,ECE,ECE 365,Data Science and Engineering,3,17
+82771,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,17
+99596,ECE,ECE 380,Biomedical Imaging,4,17
+53738,ECE,ECE 402,Electronic Music Synthesis,4,17
+29881,ECE,ECE 408,Applied Parallel Programming,4,17
+31580,ECE,ECE 411,Computer Organization & Design,4,17
+24363,ECE,ECE 414,Biomedical Instrumentation,4,17
+65840,ECE,ECE 417,Multimedia Signal Processing,4,17
+47519,ECE,ECE 420,Embedded DSP Laboratory,4,17
+36915,ECE,ECE 422,Computer Security I,4,17
+74209,ECE,ECE 428,Distributed Systems,4,17
+54440,ECE,ECE 437,Sensors and Instrumentation,4,17
+20123,ECE,ECE 438,Communication Networks,4,17
+53197,ECE,ECE 444,IC Device Theory & Fabrication,4,17
+72374,ECE,ECE 445,Senior Design Project Lab,4,17
+11639,ECE,ECE 446,Principles of Experimental Research in EE,4,17
+17687,ECE,ECE 447,Active Microwave Ckt Design,4,17
+34943,ECE,ECE 448,Artificial Intelligence,4,17
+32812,ECE,ECE 452,Electromagnetic Fields,4,17
+28008,ECE,ECE 453,Wireless Communication Systems,4,17
+52866,ECE,ECE 459,Communications Systems,4,17
+55773,ECE,ECE 463,Digital Communications Lab,4,17
+97767,ECE,ECE 464,Power Electronics,4,17
+69973,ECE,ECE 465,Optical Communications Systems,4,17
+59117,ECE,ECE 469,Power Electronics Laboratory,4,17
+90172,ECE,ECE 470,Introduction to Robotics,3,17
+40761,ECE,ECE 473,Fund of Engrg Acoustics,4,17
+14850,ECE,ECE 476,Power System Analysis,4,17
+67602,ECE,ECE 482,Digital IC Design,4,17
+21484,ECE,ECE 486,Control Systems,4,17
+43499,ECE,ECE 487,Intro Quantum Electr for EEs,3,17
+44090,ECE,ECE 488,Compound Semicond & Devices,4,17
+25145,ECE,ECE 491,Numerical Analysis,4,17
+54638,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,17
+65437,ECE,ECE 493,Advanced Engineering Math,5,17
+10958,ECE,ECE 496,Senior Research Project,5,17
+47357,ECE,ECE 515,Control System Theory & Design,5,17
+40422,ECE,ECE 517,Nonlinear & Adaptive Control,5,17
+58494,ECE,ECE 518,Adv Semiconductor Nanotech,5,17
+32656,ECE,ECE 524,Advanced Computer Security,5,17
+39426,ECE,ECE 530,Large-Scale System Analysis,5,17
+46635,ECE,ECE 534,Random Processes,5,17
+66492,ECE,ECE 535,Theory of Semicond & Devices,5,17
+71132,ECE,ECE 540,Computational Electromagnetics,5,17
+16603,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,17
+71252,ECE,ECE 544,Topics in Signal Processing,5,17
+21376,ECE,ECE 551,Digital Signal Processing II,5,17
+58658,ECE,ECE 562,Advanced Digital Communication,5,17
+25286,ECE,ECE 563,Information Theory,5,17
+94375,ECE,ECE 564,Modern Light Microscopy,5,17
+14238,ECE,ECE 566,Computational Inference and Learning,5,17
+45156,ECE,ECE 574,Nanophotonics,5,17
+45374,ECE,ECE 584,Embedded System Verification,5,17
+60277,ECE,ECE 304,Photonic Devices,3,14
+69362,ECE,ECE 365,Data Science and Engineering,3,14
+65354,ECE,ECE 374,Introduction to Algorithms & Models of Computation,4,14
+15663,ECE,ECE 380,Biomedical Imaging,4,14
+82579,ECE,ECE 402,Electronic Music Synthesis,4,14
+81346,ECE,ECE 408,Applied Parallel Programming,4,14
+29116,ECE,ECE 411,Computer Organization & Design,4,14
+37034,ECE,ECE 414,Biomedical Instrumentation,4,14
+11326,ECE,ECE 417,Multimedia Signal Processing,4,14
+50738,ECE,ECE 420,Embedded DSP Laboratory,4,14
+57403,ECE,ECE 422,Computer Security I,4,14
+80085,ECE,ECE 428,Distributed Systems,4,14
+48317,ECE,ECE 437,Sensors and Instrumentation,4,14
+12444,ECE,ECE 438,Communication Networks,4,14
+69786,ECE,ECE 444,IC Device Theory & Fabrication,4,14
+77184,ECE,ECE 445,Senior Design Project Lab,4,14
+15297,ECE,ECE 446,Principles of Experimental Research in EE,4,14
+84213,ECE,ECE 447,Active Microwave Ckt Design,4,14
+57455,ECE,ECE 448,Artificial Intelligence,4,14
+28075,ECE,ECE 452,Electromagnetic Fields,4,14
+78583,ECE,ECE 453,Wireless Communication Systems,4,14
+13916,ECE,ECE 459,Communications Systems,4,14
+16025,ECE,ECE 463,Digital Communications Lab,4,14
+81012,ECE,ECE 464,Power Electronics,4,14
+96421,ECE,ECE 465,Optical Communications Systems,4,14
+43461,ECE,ECE 469,Power Electronics Laboratory,4,14
+56910,ECE,ECE 470,Introduction to Robotics,3,14
+63890,ECE,ECE 473,Fund of Engrg Acoustics,4,14
+39456,ECE,ECE 476,Power System Analysis,4,14
+92343,ECE,ECE 482,Digital IC Design,4,14
+88513,ECE,ECE 486,Control Systems,4,14
+72505,ECE,ECE 487,Intro Quantum Electr for EEs,3,14
+22002,ECE,ECE 488,Compound Semicond & Devices,4,14
+84557,ECE,ECE 491,Numerical Analysis,4,14
+23917,ECE,ECE 492,Parallel Progrmg: Sci & Engrg,4,14
+15824,ECE,ECE 493,Advanced Engineering Math,5,14
+29465,ECE,ECE 496,Senior Research Project,5,14
+36929,ECE,ECE 515,Control System Theory & Design,5,14
+95075,ECE,ECE 517,Nonlinear & Adaptive Control,5,14
+90471,ECE,ECE 518,Adv Semiconductor Nanotech,5,14
+32837,ECE,ECE 524,Advanced Computer Security,5,14
+34083,ECE,ECE 530,Large-Scale System Analysis,5,14
+30156,ECE,ECE 534,Random Processes,5,14
+61409,ECE,ECE 535,Theory of Semicond & Devices,5,14
+84934,ECE,ECE 540,Computational Electromagnetics,5,14
+55312,ECE,ECE 542,Fault-Tolerant Dig Syst Design,5,14
+29439,ECE,ECE 544,Topics in Signal Processing,5,14
+66836,ECE,ECE 551,Digital Signal Processing II,5,14
+96085,ECE,ECE 562,Advanced Digital Communication,5,14
+21178,ECE,ECE 563,Information Theory,5,14
+84254,ECE,ECE 564,Modern Light Microscopy,5,14
+49354,ECE,ECE 566,Computational Inference and Learning,5,14
+34576,ECE,ECE 574,Nanophotonics,5,14
+84407,ECE,ECE 584,Embedded System Verification,5,14
