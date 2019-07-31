@@ -1,0 +1,92 @@
+{% extends "user/base.html" %}
+{% block content %}
+
+<div class="welcome">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="content">
+            <h2>team dashboard</h2>  
+            <h5>team name: {{ team.name }}</h5>
+            <span>members:</span>
+            <p>
+              {% for s in student %}
+             
+                {% for item in s%}
+                  {{ item }}
+                {% endfor %},
+          
+              {% endfor %}
+            </p>
+              
+              {% if team.grade != 0 %}
+                  <p>score: {{ team.grade }}</p>
+              {% endif %}
+              {% if user.is_student %}
+                <p><a href="{% url 'project_plan' year sem crn project_id team_id %}">view team's task</a></p>
+                <p><a href="{% url 'leave_team' year sem crn project_id team_id %}">leave team</a></p>
+              {% else %}
+                <p><a href="{% url 'grade' year sem crn project_id team_id %}">assign grade</a></p>
+              {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+
+{% if user.is_authenticated %}   
+
+      {% for i in range %}
+          <div class="col-sm-12">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">stage {{ i }}</h5>
+                {% if user.is_student %}      
+                      {% for item, stage in percentage %}
+                        {% if stage == i %}
+                            <div class="progress"> 
+                              <div class="progress-bar" role="progressbar" style="width:{{item}}%">
+                                team progress: {{item}} %
+                              </div>
+                            </div>
+                          {% endif %}
+                      {% endfor %}
+                      <p class="card-text"><a href="{% url 'add_task' year sem crn project_id team_id i %}">add task</a></p>
+                      <p><a href="{% url 'give_feedback' year sem crn project_id team_id i %}">add feedback</a> </p>
+                      {% if task_flag == True %}
+                          {% for task in tasks %}
+                            {% if task.stage == i %}
+                              <p><a href="{% url 'task_detail' year sem crn project_id team_id task.stage task.id %}">my task: {{ task.title }} </a></p>
+                            {% endif %}
+                          {% endfor %}
+                      {% endif %}
+                  {% else %}
+                    {% for item, stage in percentage %}
+                      {% if stage == i %}
+                          <div class="progress"> 
+                            <div class="progress-bar" role="progressbar" style="width:{{item}}%">
+                              team progress: {{item}} %
+                            </div>
+                          </div>
+                      {% endif %}
+                    {% endfor %}
+                      <p><a href="{% url 'feedback_list' year sem crn project_id team_id i %}">view feedbacks</a></p>       
+                    
+                  {% endif %}
+              </div>
+            </div>
+          </div>          
+      {% endfor %}
+
+{% endif %}
+<p>
+    <small><a href="{% url 'project_detail' year sem crn project_id  %}">back to project</a></small>
+</p>
+<p>
+    <small><a href="{% url 'course_detail' year sem crn  %}">back to course</a></small>
+</p>
+
+
+      
+{% endblock content %}

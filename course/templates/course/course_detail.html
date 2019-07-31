@@ -1,0 +1,77 @@
+{% extends "user/base.html" %}
+{% block content %}
+
+ <div class="welcome">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+              {% if member_flag or user.is_instructor %}
+                  <a href="{% url 'course_drop' year sem crn %}">drop this course</a>
+              {% endif %}
+          <div class="content">
+            <h2>{{ course_number}}</h2>  
+            <p>{{ course_title }}</p>
+            <p>skill you will learn:
+              {% for skill in skills %}
+              {{ skill.skill }},
+            {% endfor %}
+            </p>
+            
+            {% if member_flag == False and user.is_student %}
+              <div>
+                you are not enrolled yet
+              </div>
+            {% endif %}
+            <div>
+                {% if has_instructor %}
+                  instructor(s):
+                  {% for firstname, lastname in staff %}
+                  <p> {{ firstname }} {{ lastname }}</p>   
+                  {% endfor %}
+                {% endif %}
+               </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+  <section class="charts">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="chart-container">
+            <h3>projects</h3>
+              {% if user.is_authenticated %}
+                  {% if user.is_instructor %}
+                      <a href="{% url 'project_create' year sem crn %}"> add project</a>
+                  {% endif %}
+              {% endif %}
+              {% if member_flag or user.is_instructor  %}
+                    {% for name, id in projects %}
+                          {% for n in name %}
+                          {% for i in id %}
+                          <p><a href="{% url 'project_detail' year sem crn i %}">{{ n }} </a></p> 
+                          {% endfor %}
+                          {% endfor %}
+                    {% endfor %}
+              {% endif %}
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="chart-container">
+            <h3>members</h3>
+            {% if added_flag %}
+              {% for id, netid in members %}
+                <p><a href="{% url 'member_profile' year sem  crn id  %}"> view profile {{ netid }} </a></p>
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+{% endblock content %}

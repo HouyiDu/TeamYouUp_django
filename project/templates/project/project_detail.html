@@ -1,0 +1,65 @@
+{% extends "user/base.html" %}
+{% block content %}
+
+
+<div class="welcome">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="content">
+            <h2>project: {{ name }}</h2>  
+            <p> {{ project.course }} <a href="{% url 'course_detail' year sem crn %}">  course home</a> </p>
+            <p>due: {{ due_date }}</p>
+            <p>team size: {{ team_size }}</p>
+            <p>skills needed: 
+              {% for skill in skill_list %}
+              {{ skill }},
+            {% endfor %}
+            </p>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+    
+  <section class="charts">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+     
+          <div class="chart-container">
+            <h3>teams</h3>
+            {% if user.is_authenticated %}
+              {% if user.is_student and member_flag %}
+                <p><a href="{% url 'team_create' year sem crn project.id %}">create team</a></p>
+                <p><a href="{% url 'join_team' year sem crn project.id  %}">join a team</a></p>
+              {% if flag == True %}
+                <p><a href="{% url 'team_detail' year sem crn project.id team_id %}">my team</a></p>
+              {% endif %}
+              
+              <p>dont' have a team? try <a href="{% url 'match' year sem crn project.id %}">auto match</a></p>
+            
+              {% endif %}
+              {% if user.is_instructor %}
+                  <p><a href="{% url 'project_update' year sem crn project.id %}">update project</a></p>
+                  <p><a href="{% url 'project_skillrequired' year sem crn project.id %}">add project required skill</a></p>  
+                  <p><a href="{% url 'project_extension' year sem crn project.id %}">change deadline</a></p>
+
+                  {% if team_flag %}
+                  <h4>teams:</h4> 
+                      {% for team in team_list %}
+                      <p> <a href="{% url 'team_detail' year sem crn project.id team.id %}"> {{ team.name }} </a> </p> 
+                      {% endfor %}
+                  {% endif %}
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+{% endblock content %}

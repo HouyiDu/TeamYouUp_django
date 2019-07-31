@@ -1,0 +1,61 @@
+{% extends "user/base.html" %}
+
+{% block content %}
+    <div class="content-section">
+
+        <form method="POST">
+            {% csrf_token %}
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">skill lib</legend>
+                {% for skill in skills %}
+                <span class="badge badge-light">{{ skill.skill_name }} </span>  
+                    
+                {% endfor %}
+                <br><br>
+                <!-- {{ form.as_p }} -->
+
+                {% for field in form %}
+                    <div class="row">
+                        <div class="col-md-2">    
+                            {{ field.label_tag }}
+                            {{ field.errors }}
+                        </div>
+                        <div class="col-md-10 pull-left">
+                            {{ field }}
+                        </div>
+                    </div>
+                    {% if field.help_text %}
+                        <small>{{ field.help_text }}</small>
+                    {% endif %}
+                {% endfor %}
+
+            </fieldset>
+            <div class="form-group">
+                <button class="btn btn-outline-info" type="submit">add / update</button>
+            </div>
+        </form>
+        {% if user.is_authenticated %}
+        {% if user.is_student %}
+       
+            my skills: <br>
+
+            {% for name, id, score in list %}
+                {% if score != 0%}
+                <span class="badge badge-light">{{ name }} {{ score }} pts</span>    
+                <a href="{% url 'delete_skill' id %}">delete </a> <br>
+                {% endif %}
+            {% endfor %}
+        
+
+        
+        {% else %}
+            {% for id, name in list %}
+            {{ name }}
+                <a href="{% url 'delete_skill_lib' id %}">delete </a> <br>
+            {% endfor %}
+
+        {% endif %}
+        {% endif %}
+       
+    </div>
+{% endblock content %}

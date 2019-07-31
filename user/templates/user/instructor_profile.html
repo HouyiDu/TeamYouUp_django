@@ -1,0 +1,56 @@
+
+{% extends "./base.html" %}
+{% block content %}
+<div class="content-section">
+    <div class="media-body">
+        <h2 class="account-heading">{{ user.username }}</h2>
+        <p class="text-secondary">{{ user.email }}</p>
+    </div>   
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <fieldset class="form-group">
+            <legend class="border-bottom mb-4">Profile Info</legend>
+            <!-- {{ u_form.as_p }} -->
+            <!-- {{ p_form.as_p }} -->
+
+            {% for field in u_form %}
+                <div class="row">
+                    <div class="col-md-2">    
+                        {{ field.label_tag }}
+                        {{ field.errors }}
+                    </div>
+                    <!-- <br></br> -->
+                    <div class="col-md-10 pull-left">
+                        {{ field }}
+                    </div>
+                </div>
+                {% if field.help_text %}
+                    <small>{{ field.help_text }}</small>
+                    <!-- <br></br> -->
+                {% endif %}
+            {% endfor %}
+
+            {% for field in p_form %}
+                <div class="row">
+                    <div class="col-md-2">    
+                        {{ field.label_tag }}
+                        {{ field.errors }}
+                    </div>
+                    <!-- <br></br> -->
+                    <div class="col-md-10 pull-left">
+                        {{ field }}
+                    </div>
+                </div>
+                {% if field.help_text %}
+                    <small>{{ field.help_text }}</small>
+                    <!-- <br></br> -->
+                {% endif %}
+            {% endfor %}
+
+        </fieldset>
+        <div class="form-group">
+            <button class="btn btn-outline-info" type="submit">Update</button>
+        </div>
+    </form>
+</div>
+{% endblock content %}

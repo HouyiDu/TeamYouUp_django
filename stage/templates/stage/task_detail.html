@@ -1,0 +1,53 @@
+{% extends "user/base.html" %}
+{% block content %}
+<legend class=" mb-4">my task for stage {{ stage_id }} </legend>
+
+
+  <div class="col-sm-12">
+    <div class="card">
+      <div class="card-body">
+  
+        {% for s in task %}
+        {% for item in s %}
+        <li>
+          {{ item }}
+        </li>
+        {% endfor %}
+      {% endfor %}
+      <br>
+      <button class="btn btn-light">
+        <a class="btn-text" href="{% url 'task_update' year sem crn project_id team_id stage_id task_id %}">
+          <i class="fas fa-edit"></i> 
+        </a>
+      </button>
+     
+     
+      <button class="btn btn-light">
+      <a class="btn-text"  href="{% url 'mark_complete' year sem crn project_id team_id stage_id task_id %}">
+        <i class="fas fa-check"></i> 
+      </a>
+      </button>
+    
+      <button class="btn btn-light">
+        <a class="btn-text" href="{% url 'delete_task' year sem crn project_id team_id stage_id task_id %}">
+          <i class="fas fa-trash-alt"></i> 
+        </a>
+      </button>
+      </div>
+    </div>
+  </div>          
+
+
+
+ 
+
+<br>
+<a href="{% url 'team_detail' year sem crn project_id team_id %}">team home</a>
+<br>
+<a href="{% url 'project_detail' year sem crn project_id  %}">project home</a>
+<br>
+<a href="{% url 'course_detail' year sem crn  %}">course home</a>
+
+
+
+{% endblock content %}

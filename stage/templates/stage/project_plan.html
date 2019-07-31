@@ -1,0 +1,93 @@
+
+{% extends "user/base.html" %}
+{% block content %}
+
+<div class="left">
+        <div class="welcome">
+            <div class="container-fluid">
+            <div class="row">
+             
+                <div class="content">
+                    <h2>team task list</h2>  
+                    <p> <a href="{% url 'team_detail' year sem crn project_id team_id %}">team home page</a></p>
+                </div>
+               
+            </div>
+            </div>
+        </div>
+            
+                        
+       
+
+        {% for s in task %}
+        
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">{{ s.student.user.username }}</h5>
+                        <p>stage: {{ s.stage }}</p>
+                        <p>task: {{ s.goal }}</p>
+                        <p>status: {{ s.status }}</p>
+                        <p>schedule ddl: {{ s.schedule }}</p>
+              
+            </div>
+        </div> 
+       
+
+        {% endfor %}
+    
+
+    
+</div>
+
+<div class="calendar">
+        <div class="calendar__picture">
+          <h5> July 2019</h3>
+        </div>
+        <div class="calendar__date">
+          <div class="calendar__day">S</div>
+          <div class="calendar__day">M</div>
+          <div class="calendar__day">T</div>
+          <div class="calendar__day">W</div>
+          <div class="calendar__day">T</div>
+          <div class="calendar__day">F</div>
+          <div class="calendar__day">S</div>
+          
+  
+          <div class="calendar__number"></div>
+          <div class="calendar__number"></div>
+          <div class="calendar__number">1</div>
+          <div class="calendar__number">2</div>
+          <div class="calendar__number">3</div>
+          <div class="calendar__number">4</div>
+          <div class="calendar__number">5</div>
+          <div class="calendar__number">6</div>
+          <div class="calendar__number">7</div>
+          <div class="calendar__number">8</div>
+          <div class="calendar__number">9</div>
+          <div class="calendar__number">10</div>
+          <div class="calendar__number">11</div>
+          <div class="calendar__number">12</div>
+          <div class="calendar__number">13</div>
+          <div class="calendar__number">14</div>
+          <div class="calendar__number">15</div>
+          <div class="calendar__number">16</div>
+          <div class="calendar__number">17</div>
+          <div class="calendar__number">18</div>
+          <div class="calendar__number">19</div>
+          <div class="calendar__number">20</div>
+          <div class="calendar__number">21</div>
+          <div class="calendar__number">22</div>
+          <div class="calendar__number">23</div>
+          <div class="calendar__number">24</div>
+          <div class="calendar__number">25</div>
+          <div class="calendar__number">26</div>
+          <div class="calendar__number">27</div>
+          <div class="calendar__number">28</div>
+          <div class="calendar__number">29</div>
+          <div class="calendar__number">30</div>
+          <div class="calendar__number current_day">31</div>
+          
+        </div>
+</div>
+       
+{% endblock content %}

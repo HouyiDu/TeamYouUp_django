@@ -1,0 +1,14 @@
+{% extends "user/base.html" %}
+{% block content %}
+<legend class="border-bottom mb-4">suggested teams</legend>
+
+{% for id, item in teams %}
+ <p>
+  potential team  {{ id }}:  {% for i in item %} &nbsp;{{ i }}   {% endfor %} 
+ </p> 
+    
+{% endfor %}
+
+
+<a href="{% url 'project_detail' year sem crn project_id %}">back to project</a>
+{% endblock content %}

@@ -1,0 +1,14 @@
+{% extends "user/base.html" %}
+{% block content %}
+
+<legend class=" mb-4">feedbacks </legend>
+  <ul>
+      {% for f in feedbacks %}
+      <li>
+        <a href="{% url 'view_feedback' year sem crn project_id team_id stage_id f.id %}">feedback by {{ f.grader }} for {{ f.receiver }}</a>
+      </li>
+      {% endfor %}
+  </ul>
+
+
+{% endblock content %}

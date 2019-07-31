@@ -1,0 +1,32 @@
+{% extends "user/base.html" %}
+{% block content %}
+<legend class="border-bottom mb-4">Profile </legend>
+
+
+
+    <div class="leftWrapper">
+      <div class="subtitleWrapper">
+        <div class="name">{{ student.firstName }} {{ student.lastName }}</div>
+        <div class="job">email: {{ student.email }}</div>
+        <div class="job">standing: {{ student.standing }}</div>
+      </div>
+    </div>
+
+
+<div>
+    
+        my skills:<br>
+        {% for name,score in skillset %}     
+           
+            <span class="badge badge-light">{{ name }} {{ score }}</span>  
+            
+        {% endfor %}
+
+   
+      <p>
+        <small><a href="{% url 'course_detail' year sem crn  %}">back to course</a></small>
+      </p>
+    
+</div>
+
+{% endblock content %}

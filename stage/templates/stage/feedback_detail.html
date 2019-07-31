@@ -1,0 +1,20 @@
+{% extends "user/base.html" %}
+{% block content %}
+
+
+<legend class=" mb-4">feedback </legend>
+
+<div class="card">
+   <div class="card-body">
+     <h5 class="card-title">feed back by {{ feedback.grader }} for {{ feedback.receiver}}</h5>
+             <p>overall rating {{ feedback.rate }}</p>
+             <p>stage: {{ feedback.stage }}</p>
+             <p><small>submit date: {{ feedback.date_rated }}</small></p>
+             <p> {{ feedback.feedback }}</p>
+   
+   </div>
+ </div>
+
+
+
+{% endblock content %}

@@ -1,0 +1,9 @@
+
+{% extends "user/base.html" %}
+{% block content %}
+    {% if user.is_instructor %}
+        <a href="{% url 'course_teach' year sem %}">add a different course</a>
+    {% else %}
+        <a href="{% url 'course_join' year sem %}">add a different course</a>
+    {% endif %}
+{% endblock content %}

@@ -1,0 +1,14 @@
+{% extends "user/base.html" %}
+{% block content %}
+  <h1>added course </h1>
+  <h2>{{ object.course }}</h2>
+  {% for member in members %}
+  <!-- {% if member.team == 1%} -->
+      <li>
+          <a href="#"> {{ member.student }}</a>
+      </li>
+  <!-- {% endif %} -->
+
+{% endfor %}
+  
+{% endblock content %}

@@ -1,0 +1,38 @@
+
+{% extends "./base.html" %}
+{% block content %}
+    <div class="content-section">
+        <form method="POST">
+            {% csrf_token %}
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">Log In </legend>
+                
+                {% for field in form %}
+                    <div class="row">
+                        <div class="col-md-2">    
+                            {{ field.label_tag }}
+                            {{ field.errors }}
+                        </div>
+                        <!-- <br></br> -->
+                        <div class="col-md-10 pull-left">
+                            {{ field }}
+                        </div>
+                    </div>
+                    {% if field.help_text %}
+                        <small>{{ field.help_text }}</small>
+                        <!-- <br></br> -->
+                    {% endif %}
+                {% endfor %}
+
+            </fieldset>
+            <div class="form-group">
+                <button class="btn btn-outline-info" type="submit">Login</button>
+            </div>
+        </form>
+        <div class="border-top pt-3">
+            <small class="text-muted">
+                Need An Account? <a class="ml-2" href="{% url 'signup' %}">Sign Up Now</a>
+            </small>
+        </div>
+    </div>
+{% endblock content %}

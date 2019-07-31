@@ -1,0 +1,55 @@
+{% extends "user/base.html" %}
+{% block content %}
+
+
+
+<form method="POST" class="search">
+  {% csrf_token %}
+  <fieldset class="form-group">
+      {{ form.as_p }}
+  </fieldset>
+  <div class="form-group">
+      <button class="btn btn-outline-info" type="submit">search</button>
+  </div>
+</form>
+
+{% if user.is_authenticated %}
+              
+{% if user.is_student %}
+    <a href="{% url 'course_join' year sem  %}">join course</a>
+{% else %}
+    <a href="{% url 'course_teach' year sem %}">Add course to teach</a>
+{% endif %}
+<br><br>
+
+{% endif %}
+
+<table class="table table-hover">
+        <thead >
+          <tr>
+            <th scope="col"></th>
+            <th scope="col">Course Number</th>
+            <th scope="col">CRN </th>
+            
+          </tr>
+        </thead>
+        <tbody>
+                {% for course in courses %}
+     
+          <tr>
+            <th scope="row"></th>
+            <td><a href="{% url 'course_detail' year sem course.crn %}"> {{ course.course_number }}</a> </td>
+            <td>
+                {{ course.crn }}
+
+                   
+            </td>
+            
+          </tr>
+          
+                {% endfor %}
+        </tbody>
+</table>
+
+
+{% endblock content %}
